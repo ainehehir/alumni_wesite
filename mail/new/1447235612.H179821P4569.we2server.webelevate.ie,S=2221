@@ -1,0 +1,59 @@
+Return-path: <>
+Envelope-to: we30dsa@we2server.webelevate.ie
+Delivery-date: Wed, 11 Nov 2015 09:53:32 +0000
+Received: from mailnull by we2server.webelevate.ie with local (Exim 4.86)
+	id 1ZwS5s-0001Bb-3F
+	for we30dsa@we2server.webelevate.ie; Wed, 11 Nov 2015 09:53:32 +0000
+X-Failed-Recipients: april_mexican@aol.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@we2server.webelevate.ie>
+To: we30dsa@we2server.webelevate.ie
+Content-Type: multipart/report; report-type=delivery-status; boundary=1447235612-eximdsn-92040262
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1ZwS5s-0001Bb-3F@we2server.webelevate.ie>
+Date: Wed, 11 Nov 2015 09:53:32 +0000
+
+--1447235612-eximdsn-92040262
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  april_mexican@aol.com
+    host mailin-02.mx.aol.com [152.163.0.99]
+    SMTP error from remote mail server after RCPT TO:<april_mexican@aol.com>:
+    550 5.1.1 <april_mexican@aol.com>: Recipient address rejected:
+    aol.com
+
+--1447235612-eximdsn-92040262
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; we2server.webelevate.ie
+
+Action: failed
+Final-Recipient: rfc822;april_mexican@aol.com
+Status: 5.0.0
+Remote-MTA: dns; mailin-02.mx.aol.com
+Diagnostic-Code: smtp; 550 5.1.1 <april_mexican@aol.com>: Recipient address rejected: aol.com
+
+--1447235612-eximdsn-92040262
+Content-type: text/rfc822-headers
+
+Return-path: <we30dsa@we2server.webelevate.ie>
+Received: from we30dsa by we2server.webelevate.ie with local (Exim 4.86)
+	(envelope-from <we30dsa@we2server.webelevate.ie>)
+	id 1ZwS5q-0001AU-1j
+	for april_mexican@aol.com; Wed, 11 Nov 2015 09:53:30 +0000
+To: april_mexican@aol.com
+Subject: Phone Home
+X-PHP-Script: dsa.webelevate.net/wp-cron.php for 77.235.52.86
+Message-Id: <E1ZwS5q-0001AU-1j@we2server.webelevate.ie>
+From: we30dsa@we2server.webelevate.ie
+Date: Wed, 11 Nov 2015 09:53:30 +0000
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1447235612-eximdsn-92040262--

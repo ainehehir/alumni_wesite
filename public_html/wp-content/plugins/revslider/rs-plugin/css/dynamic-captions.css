@@ -1,0 +1,15 @@
+.tp-caption.large_bg_black {
+font-size:34px;
+line-height:20px;
+font-weight:700;
+font-family:"Open Sans";
+color:#ffffff;
+text-decoration:none;
+background-color:rgb(31, 31, 31);
+background-color:rgba(31, 31, 31, 1);
+padding:10px 20px 15px 20px;
+border-width:0px 0px 0px 5px;
+border-color:rgb(243, 111, 32);
+border-style:solid;
+}
+

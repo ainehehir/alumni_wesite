@@ -1,0 +1,55 @@
+Return-path: <>
+Envelope-to: we30dsa@we2server.webelevate.ie
+Delivery-date: Wed, 13 May 2015 10:51:29 +0100
+Received: from mailnull by we2server.webelevate.ie with local (Exim 4.85)
+	id 1YsTK3-0003a5-JF
+	for we30dsa@we2server.webelevate.ie; Wed, 13 May 2015 10:51:27 +0100
+X-Failed-Recipients: aine.hehir@webelevate.ie
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@we2server.webelevate.ie>
+To: we30dsa@we2server.webelevate.ie
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1YsTK3-0003a5-JF@we2server.webelevate.ie>
+Date: Wed, 13 May 2015 10:51:27 +0100
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  aine.hehir@webelevate.ie
+    host filtered.antispam.ie [78.153.212.228]
+    SMTP error from remote mail server after end of data:
+    550 High probability of spam
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <we30dsa@we2server.webelevate.ie>
+Received: from we30dsa by we2server.webelevate.ie with local (Exim 4.85)
+	(envelope-from <we30dsa@we2server.webelevate.ie>)
+	id 1YsTJx-0003Zx-HM
+	for aine.hehir@webelevate.ie; Wed, 13 May 2015 10:51:22 +0100
+To: aine.hehir@webelevate.ie
+Subject: [Digital Skills Academy Alumni] WordPress 4.2.2 is available. Please update!
+X-PHP-Script: dsa.webelevate.net/wp-cron.php for 77.235.52.86
+Date: Wed, 13 May 2015 09:51:21 +0000
+From: Digital Skills Academy Alumni <wordpress@dsa.webelevate.net>
+Message-ID: <c984df41c41cd3a9b9153e3f31cebf6c@dsa.webelevate.net>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Please update your site at http://dsa.webelevate.net to WordPress 4.2.2.
+
+Updating is easy and only takes a few moments:
+http://dsa.webelevate.net/wp-admin/update-core.php
+
+If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+https://wordpress.org/support/
+
+Keeping your site updated is important for security. It also makes the internet a safer place for you and your readers.
+
+The WordPress Team
+

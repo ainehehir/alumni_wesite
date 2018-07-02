@@ -1,0 +1,59 @@
+Return-path: <>
+Envelope-to: we30dsa@we2server.webelevate.ie
+Delivery-date: Tue, 22 Dec 2015 20:04:06 +0000
+Received: from mailnull by we2server.webelevate.ie with local (Exim 4.86)
+	id 1aBTAE-0007i7-7L
+	for we30dsa@we2server.webelevate.ie; Tue, 22 Dec 2015 20:04:06 +0000
+X-Failed-Recipients: veda_niknam@aol.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@we2server.webelevate.ie>
+To: we30dsa@we2server.webelevate.ie
+Content-Type: multipart/report; report-type=delivery-status; boundary=1450814646-eximdsn-353379045
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1aBTAE-0007i7-7L@we2server.webelevate.ie>
+Date: Tue, 22 Dec 2015 20:04:06 +0000
+
+--1450814646-eximdsn-353379045
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  veda_niknam@aol.com
+    host mailin-03.mx.aol.com [152.163.0.100]
+    SMTP error from remote mail server after RCPT TO:<veda_niknam@aol.com>:
+    550 5.1.1 <veda_niknam@aol.com>: Recipient address rejected:
+    aol.com
+
+--1450814646-eximdsn-353379045
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; we2server.webelevate.ie
+
+Action: failed
+Final-Recipient: rfc822;veda_niknam@aol.com
+Status: 5.0.0
+Remote-MTA: dns; mailin-03.mx.aol.com
+Diagnostic-Code: smtp; 550 5.1.1 <veda_niknam@aol.com>: Recipient address rejected: aol.com
+
+--1450814646-eximdsn-353379045
+Content-type: text/rfc822-headers
+
+Return-path: <we30dsa@we2server.webelevate.ie>
+Received: from we30dsa by we2server.webelevate.ie with local (Exim 4.86)
+	(envelope-from <we30dsa@we2server.webelevate.ie>)
+	id 1aBTAC-0007hH-IS
+	for veda_niknam@aol.com; Tue, 22 Dec 2015 20:04:04 +0000
+To: veda_niknam@aol.com
+Subject: Phone Home
+X-PHP-Script: dsa.webelevate.net/index.php for 66.249.66.150
+Message-Id: <E1aBTAC-0007hH-IS@we2server.webelevate.ie>
+From: we30dsa@we2server.webelevate.ie
+Date: Tue, 22 Dec 2015 20:04:04 +0000
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1450814646-eximdsn-353379045--

@@ -1,0 +1,64 @@
+Return-path: <>
+Envelope-to: we30dsa@we2server.webelevate.ie
+Delivery-date: Thu, 11 Feb 2016 12:10:46 +0000
+Received: from mailnull by we2server.webelevate.ie with local (Exim 4.86)
+	id 1aTq58-0001aN-JW
+	for we30dsa@we2server.webelevate.ie; Thu, 11 Feb 2016 12:10:46 +0000
+X-Failed-Recipients: BertiePrected@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@we2server.webelevate.ie>
+To: we30dsa@we2server.webelevate.ie
+Content-Type: multipart/report; report-type=delivery-status; boundary=1455192646-eximdsn-1302242111
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1aTq58-0001aN-JW@we2server.webelevate.ie>
+Date: Thu, 11 Feb 2016 12:10:46 +0000
+
+--1455192646-eximdsn-1302242111
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  BertiePrected@gmail.com
+    host gmail-smtp-in.l.google.com [74.125.136.27]
+    SMTP error from remote mail server after RCPT TO:<BertiePrected@gmail.com>:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1  https://support.google.com/mail/answer/6596 x16si12468195wme.57 - gsmtp
+
+--1455192646-eximdsn-1302242111
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; we2server.webelevate.ie
+
+Action: failed
+Final-Recipient: rfc822;BertiePrected@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does not exist. Please try
+ 550-5.1.1 double-checking the recipient's email address for typos or
+ 550-5.1.1 unnecessary spaces. Learn more at
+ 550 5.1.1  https://support.google.com/mail/answer/6596 x16si12468195wme.57 - gsmtp
+
+--1455192646-eximdsn-1302242111
+Content-type: text/rfc822-headers
+
+Return-path: <we30dsa@we2server.webelevate.ie>
+Received: from we30dsa by we2server.webelevate.ie with local (Exim 4.86)
+	(envelope-from <we30dsa@we2server.webelevate.ie>)
+	id 1aTq58-0001a9-Aa
+	for BertiePrected@gmail.com; Thu, 11 Feb 2016 12:10:46 +0000
+To: BertiePrected@gmail.com
+Subject: Phone Home
+X-PHP-Script: dsa.webelevate.net/index.php for 66.249.64.45
+Message-Id: <E1aTq58-0001a9-Aa@we2server.webelevate.ie>
+From: we30dsa@we2server.webelevate.ie
+Date: Thu, 11 Feb 2016 12:10:46 +0000
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1455192646-eximdsn-1302242111--

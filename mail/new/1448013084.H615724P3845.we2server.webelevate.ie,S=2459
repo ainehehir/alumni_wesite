@@ -1,0 +1,58 @@
+Return-path: <>
+Envelope-to: we30dsa@we2server.webelevate.ie
+Delivery-date: Fri, 20 Nov 2015 09:51:24 +0000
+Received: from mailnull by we2server.webelevate.ie with local (Exim 4.86)
+	id 1ZziLk-0000zt-GP
+	for we30dsa@we2server.webelevate.ie; Fri, 20 Nov 2015 09:51:24 +0000
+X-Failed-Recipients: CollettePhilbyamy@yahoo.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@we2server.webelevate.ie>
+To: we30dsa@we2server.webelevate.ie
+Content-Type: multipart/report; report-type=delivery-status; boundary=1448013084-eximdsn-653329489
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1ZziLk-0000zt-GP@we2server.webelevate.ie>
+Date: Fri, 20 Nov 2015 09:51:24 +0000
+
+--1448013084-eximdsn-653329489
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  CollettePhilbyamy@yahoo.com
+    host mta7.am0.yahoodns.net [98.138.112.38]
+    SMTP error from remote mail server after MAIL FROM:<we30dsa@we2server.webelevate.ie> SIZE=242796:
+    553 5.7.1 [BL21] Connections will not be accepted from 77.235.52.86, because the ip is in Spamhaus's list; see https://help.yahoo.com/kb/postmaster/SLN5070.html
+
+--1448013084-eximdsn-653329489
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; we2server.webelevate.ie
+
+Action: failed
+Final-Recipient: rfc822;CollettePhilbyamy@yahoo.com
+Status: 5.0.0
+Remote-MTA: dns; mta7.am0.yahoodns.net
+Diagnostic-Code: smtp; 553 5.7.1 [BL21] Connections will not be accepted from 77.235.52.86, because the ip is in Spamhaus's list; see https://help.yahoo.com/kb/postmaster/SLN5070.html
+
+--1448013084-eximdsn-653329489
+Content-type: text/rfc822-headers
+
+Return-path: <we30dsa@we2server.webelevate.ie>
+Received: from we30dsa by we2server.webelevate.ie with local (Exim 4.86)
+	(envelope-from <we30dsa@we2server.webelevate.ie>)
+	id 1ZziLj-0000zT-6T
+	for CollettePhilbyamy@yahoo.com; Fri, 20 Nov 2015 09:51:23 +0000
+To: CollettePhilbyamy@yahoo.com
+Subject: Phone Home
+X-PHP-Script: dsa.webelevate.net/wp-cron.php for 77.235.52.86
+Message-Id: <E1ZziLj-0000zT-6T@we2server.webelevate.ie>
+From: we30dsa@we2server.webelevate.ie
+Date: Fri, 20 Nov 2015 09:51:23 +0000
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1448013084-eximdsn-653329489--

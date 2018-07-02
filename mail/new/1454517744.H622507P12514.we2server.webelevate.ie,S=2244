@@ -1,0 +1,59 @@
+Return-path: <>
+Envelope-to: we30dsa@we2server.webelevate.ie
+Delivery-date: Wed, 03 Feb 2016 16:42:24 +0000
+Received: from mailnull by we2server.webelevate.ie with local (Exim 4.86)
+	id 1aR0Vc-0003Fl-I0
+	for we30dsa@we2server.webelevate.ie; Wed, 03 Feb 2016 16:42:24 +0000
+X-Failed-Recipients: sjuhdu@mail.ru
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@we2server.webelevate.ie>
+To: we30dsa@we2server.webelevate.ie
+Content-Type: multipart/report; report-type=delivery-status; boundary=1454517744-eximdsn-1771040012
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1aR0Vc-0003Fl-I0@we2server.webelevate.ie>
+Date: Wed, 03 Feb 2016 16:42:24 +0000
+
+--1454517744-eximdsn-1771040012
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sjuhdu@mail.ru
+    host mxs.mail.ru [94.100.180.150]
+    SMTP error from remote mail server after end of data:
+    550 Message was not accepted -- invalid mailbox.  Local mailbox sjuhdu@mail.ru is unavailable:
+    user is terminated
+
+--1454517744-eximdsn-1771040012
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; we2server.webelevate.ie
+
+Action: failed
+Final-Recipient: rfc822;sjuhdu@mail.ru
+Status: 5.0.0
+Remote-MTA: dns; mxs.mail.ru
+Diagnostic-Code: smtp; 550 Message was not accepted -- invalid mailbox.  Local mailbox sjuhdu@mail.ru is unavailable: user is terminated
+
+--1454517744-eximdsn-1771040012
+Content-type: text/rfc822-headers
+
+Return-path: <we30dsa@we2server.webelevate.ie>
+Received: from we30dsa by we2server.webelevate.ie with local (Exim 4.86)
+	(envelope-from <we30dsa@we2server.webelevate.ie>)
+	id 1aR0VZ-0003FF-9b
+	for sjuhdu@mail.ru; Wed, 03 Feb 2016 16:42:21 +0000
+To: sjuhdu@mail.ru
+Subject: Phone Home
+X-PHP-Script: dsa.webelevate.net/index.php for 130.193.51.1
+Message-Id: <E1aR0VZ-0003FF-9b@we2server.webelevate.ie>
+From: we30dsa@we2server.webelevate.ie
+Date: Wed, 03 Feb 2016 16:42:21 +0000
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1454517744-eximdsn-1771040012--

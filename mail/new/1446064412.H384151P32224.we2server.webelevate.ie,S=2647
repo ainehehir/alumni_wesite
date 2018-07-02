@@ -1,0 +1,58 @@
+Return-path: <>
+Envelope-to: we30dsa@we2server.webelevate.ie
+Delivery-date: Wed, 28 Oct 2015 20:33:32 +0000
+Received: from mailnull by we2server.webelevate.ie with local (Exim 4.86)
+	id 1ZrXPY-0008Nf-A4
+	for we30dsa@we2server.webelevate.ie; Wed, 28 Oct 2015 20:33:32 +0000
+X-Failed-Recipients: matohyzozuxo@hotmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@we2server.webelevate.ie>
+To: we30dsa@we2server.webelevate.ie
+Content-Type: multipart/report; report-type=delivery-status; boundary=1446064412-eximdsn-565727426
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1ZrXPY-0008Nf-A4@we2server.webelevate.ie>
+Date: Wed, 28 Oct 2015 20:33:32 +0000
+
+--1446064412-eximdsn-565727426
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  matohyzozuxo@hotmail.com
+    host mx4.hotmail.com [207.46.8.199]
+    SMTP error from remote mail server after MAIL FROM:<we30dsa@we2server.webelevate.ie> SIZE=242685:
+    550 OU-001 (BAY004-MC6F9) Unfortunately, messages from 77.235.52.86 weren't sent. Please contact your Internet service provider since part of their network is on our block list. You can also refer your provider to http://mail.live.com/mail/troubleshooting.aspx#errors.
+
+--1446064412-eximdsn-565727426
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; we2server.webelevate.ie
+
+Action: failed
+Final-Recipient: rfc822;matohyzozuxo@hotmail.com
+Status: 5.0.0
+Remote-MTA: dns; mx4.hotmail.com
+Diagnostic-Code: smtp; 550 OU-001 (BAY004-MC6F9) Unfortunately, messages from 77.235.52.86 weren't sent. Please contact your Internet service provider since part of their network is on our block list. You can also refer your provider to http://mail.live.com/mail/troubleshooting.aspx#errors.
+
+--1446064412-eximdsn-565727426
+Content-type: text/rfc822-headers
+
+Return-path: <we30dsa@we2server.webelevate.ie>
+Received: from we30dsa by we2server.webelevate.ie with local (Exim 4.86)
+	(envelope-from <we30dsa@we2server.webelevate.ie>)
+	id 1ZrXPW-0008N9-Mn
+	for matohyzozuxo@hotmail.com; Wed, 28 Oct 2015 20:33:30 +0000
+To: matohyzozuxo@hotmail.com
+Subject: Phone Home
+X-PHP-Script: dsa.webelevate.net/wp-cron.php for 77.235.52.86
+Message-Id: <E1ZrXPW-0008N9-Mn@we2server.webelevate.ie>
+From: we30dsa@we2server.webelevate.ie
+Date: Wed, 28 Oct 2015 20:33:30 +0000
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1446064412-eximdsn-565727426--

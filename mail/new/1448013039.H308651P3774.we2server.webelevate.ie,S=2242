@@ -1,0 +1,59 @@
+Return-path: <>
+Envelope-to: we30dsa@we2server.webelevate.ie
+Delivery-date: Fri, 20 Nov 2015 09:50:39 +0000
+Received: from mailnull by we2server.webelevate.ie with local (Exim 4.86)
+	id 1ZziL1-0000yn-7G
+	for we30dsa@we2server.webelevate.ie; Fri, 20 Nov 2015 09:50:39 +0000
+X-Failed-Recipients: aurelia_bavone1@aol.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@we2server.webelevate.ie>
+To: we30dsa@we2server.webelevate.ie
+Content-Type: multipart/report; report-type=delivery-status; boundary=1448013039-eximdsn-276836297
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1ZziL1-0000yn-7G@we2server.webelevate.ie>
+Date: Fri, 20 Nov 2015 09:50:39 +0000
+
+--1448013039-eximdsn-276836297
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  aurelia_bavone1@aol.com
+    host mailin-04.mx.aol.com [152.163.0.67]
+    SMTP error from remote mail server after RCPT TO:<aurelia_bavone1@aol.com>:
+    550 5.1.1 <aurelia_bavone1@aol.com>: Recipient address rejected:
+    aol.com
+
+--1448013039-eximdsn-276836297
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; we2server.webelevate.ie
+
+Action: failed
+Final-Recipient: rfc822;aurelia_bavone1@aol.com
+Status: 5.0.0
+Remote-MTA: dns; mailin-04.mx.aol.com
+Diagnostic-Code: smtp; 550 5.1.1 <aurelia_bavone1@aol.com>: Recipient address rejected: aol.com
+
+--1448013039-eximdsn-276836297
+Content-type: text/rfc822-headers
+
+Return-path: <we30dsa@we2server.webelevate.ie>
+Received: from we30dsa by we2server.webelevate.ie with local (Exim 4.86)
+	(envelope-from <we30dsa@we2server.webelevate.ie>)
+	id 1ZziKy-0000yB-Tt
+	for aurelia_bavone1@aol.com; Fri, 20 Nov 2015 09:50:36 +0000
+To: aurelia_bavone1@aol.com
+Subject: Phone Home
+X-PHP-Script: dsa.webelevate.net/wp-cron.php for 77.235.52.86
+Message-Id: <E1ZziKy-0000yB-Tt@we2server.webelevate.ie>
+From: we30dsa@we2server.webelevate.ie
+Date: Fri, 20 Nov 2015 09:50:36 +0000
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1448013039-eximdsn-276836297--

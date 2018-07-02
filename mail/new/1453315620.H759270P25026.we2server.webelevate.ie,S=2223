@@ -1,0 +1,59 @@
+Return-path: <>
+Envelope-to: we30dsa@we2server.webelevate.ie
+Delivery-date: Wed, 20 Jan 2016 18:47:00 +0000
+Received: from mailnull by we2server.webelevate.ie with local (Exim 4.86)
+	id 1aLxmW-0006VX-Ll
+	for we30dsa@we2server.webelevate.ie; Wed, 20 Jan 2016 18:47:00 +0000
+X-Failed-Recipients: veda_niknam@aol.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@we2server.webelevate.ie>
+To: we30dsa@we2server.webelevate.ie
+Content-Type: multipart/report; report-type=delivery-status; boundary=1453315620-eximdsn-418386783
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1aLxmW-0006VX-Ll@we2server.webelevate.ie>
+Date: Wed, 20 Jan 2016 18:47:00 +0000
+
+--1453315620-eximdsn-418386783
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  veda_niknam@aol.com
+    host mailin-02.mx.aol.com [152.163.0.68]
+    SMTP error from remote mail server after RCPT TO:<veda_niknam@aol.com>:
+    550 5.1.1 <veda_niknam@aol.com>: Recipient address rejected:
+    aol.com
+
+--1453315620-eximdsn-418386783
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; we2server.webelevate.ie
+
+Action: failed
+Final-Recipient: rfc822;veda_niknam@aol.com
+Status: 5.0.0
+Remote-MTA: dns; mailin-02.mx.aol.com
+Diagnostic-Code: smtp; 550 5.1.1 <veda_niknam@aol.com>: Recipient address rejected: aol.com
+
+--1453315620-eximdsn-418386783
+Content-type: text/rfc822-headers
+
+Return-path: <we30dsa@we2server.webelevate.ie>
+Received: from we30dsa by we2server.webelevate.ie with local (Exim 4.86)
+	(envelope-from <we30dsa@we2server.webelevate.ie>)
+	id 1aLxmT-0006UU-ML
+	for veda_niknam@aol.com; Wed, 20 Jan 2016 18:46:57 +0000
+To: veda_niknam@aol.com
+Subject: Phone Home
+X-PHP-Script: dsa.webelevate.net/index.php for 109.255.67.88, 66.249.93.26
+Message-Id: <E1aLxmT-0006UU-ML@we2server.webelevate.ie>
+From: we30dsa@we2server.webelevate.ie
+Date: Wed, 20 Jan 2016 18:46:57 +0000
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1453315620-eximdsn-418386783--

@@ -1,0 +1,49 @@
+Return-path: <>
+Envelope-to: we30dsa@we2server.webelevate.ie
+Delivery-date: Wed, 25 Jun 2014 16:09:18 +0100
+Received: from mailnull by we2server.webelevate.ie with local (Exim 4.82)
+	id 1Wzop4-0000Ny-Bb
+	for we30dsa@we2server.webelevate.ie; Wed, 25 Jun 2014 16:09:18 +0100
+X-Failed-Recipients: XX0101@hot.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@we2server.webelevate.ie>
+To: we30dsa@we2server.webelevate.ie
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Wzop4-0000Ny-Bb@we2server.webelevate.ie>
+Date: Wed, 25 Jun 2014 16:09:18 +0100
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  XX0101@hot.com
+    SMTP error from remote mail server after RCPT TO:<XX0101@hot.com>:
+    host aspmx.l.google.com [74.125.136.27]: 550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 fa18si7334244wid.6 - gsmtp
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <we30dsa@we2server.webelevate.ie>
+Received: from we30dsa by we2server.webelevate.ie with local (Exim 4.82)
+	(envelope-from <we30dsa@we2server.webelevate.ie>)
+	id 1Wzop3-0000Np-HB
+	for XX0101@hot.com; Wed, 25 Jun 2014 16:09:17 +0100
+To: XX0101@hot.com
+Subject: [Digital Skills Academy Alumni] Your username and password
+X-PHP-Script: dsa.webelevate.net/index.php for 31.193.219.82
+Date: Wed, 25 Jun 2014 15:09:17 +0000
+From: WordPress <wordpress@dsa.webelevate.net>
+Message-ID: <b7b9a831c43dcbea8065795707cabc00@dsa.webelevate.net>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Username: Xander_Xerxes
+Password: Password*1
+http://dsa.webelevate.net/wp-login.php
+

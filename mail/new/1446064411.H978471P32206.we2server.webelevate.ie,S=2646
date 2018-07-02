@@ -1,0 +1,58 @@
+Return-path: <>
+Envelope-to: we30dsa@we2server.webelevate.ie
+Delivery-date: Wed, 28 Oct 2015 20:33:31 +0000
+Received: from mailnull by we2server.webelevate.ie with local (Exim 4.86)
+	id 1ZrXPX-0008NN-T7
+	for we30dsa@we2server.webelevate.ie; Wed, 28 Oct 2015 20:33:31 +0000
+X-Failed-Recipients: lenitygakyn@hotmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@we2server.webelevate.ie>
+To: we30dsa@we2server.webelevate.ie
+Content-Type: multipart/report; report-type=delivery-status; boundary=1446064411-eximdsn-1189327872
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1ZrXPX-0008NN-T7@we2server.webelevate.ie>
+Date: Wed, 28 Oct 2015 20:33:31 +0000
+
+--1446064411-eximdsn-1189327872
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  lenitygakyn@hotmail.com
+    host mx1.hotmail.com [65.55.37.88]
+    SMTP error from remote mail server after MAIL FROM:<we30dsa@we2server.webelevate.ie> SIZE=242644:
+    550 OU-001 (COL004-MC2F4) Unfortunately, messages from 77.235.52.86 weren't sent. Please contact your Internet service provider since part of their network is on our block list. You can also refer your provider to http://mail.live.com/mail/troubleshooting.aspx#errors.
+
+--1446064411-eximdsn-1189327872
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; we2server.webelevate.ie
+
+Action: failed
+Final-Recipient: rfc822;lenitygakyn@hotmail.com
+Status: 5.0.0
+Remote-MTA: dns; mx1.hotmail.com
+Diagnostic-Code: smtp; 550 OU-001 (COL004-MC2F4) Unfortunately, messages from 77.235.52.86 weren't sent. Please contact your Internet service provider since part of their network is on our block list. You can also refer your provider to http://mail.live.com/mail/troubleshooting.aspx#errors.
+
+--1446064411-eximdsn-1189327872
+Content-type: text/rfc822-headers
+
+Return-path: <we30dsa@we2server.webelevate.ie>
+Received: from we30dsa by we2server.webelevate.ie with local (Exim 4.86)
+	(envelope-from <we30dsa@we2server.webelevate.ie>)
+	id 1ZrXPW-0008Mn-8L
+	for lenitygakyn@hotmail.com; Wed, 28 Oct 2015 20:33:30 +0000
+To: lenitygakyn@hotmail.com
+Subject: Phone Home
+X-PHP-Script: dsa.webelevate.net/wp-cron.php for 77.235.52.86
+Message-Id: <E1ZrXPW-0008Mn-8L@we2server.webelevate.ie>
+From: we30dsa@we2server.webelevate.ie
+Date: Wed, 28 Oct 2015 20:33:30 +0000
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1446064411-eximdsn-1189327872--

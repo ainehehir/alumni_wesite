@@ -1,0 +1,5806 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kleo v1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-03-04 14:55:09+0000\n"
+"Last-Translator: admin <gabriel@codez.ro>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:31
+#: page-templates/404-page.php:29
+#@ kleo_framework
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:33
+#: page-templates/404-page.php:31
+#@ kleo_framework
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: bbpress/content-single-topic-lead.php:18
+#: bbpress/content-single-topic-lead.php:90
+#@ bbpress
+msgid "Creator"
+msgstr ""
+
+#: bbpress/content-single-topic-lead.php:22
+#: bbpress/content-single-topic-lead.php:94
+#: bbpress/loop-topics.php:19
+#: buddypress/forums/forums-loop.php:39
+#@ bbpress
+#@ buddypress
+msgid "Topic"
+msgstr ""
+
+#: bbpress/content-statistics.php:17
+#@ bbpress
+msgid "Registered Users"
+msgstr ""
+
+#: bbpress/content-statistics.php:22
+#@ bbpress
+msgid "Forums"
+msgstr ""
+
+#: bbpress/content-statistics.php:27
+#: bbpress/loop-forums.php:20
+#@ bbpress
+msgid "Topics"
+msgstr ""
+
+#: bbpress/content-statistics.php:32
+#: bbpress/loop-forums.php:21
+#: bbpress/loop-replies.php:32
+#: bbpress/loop-topics.php:21
+#@ bbpress
+msgid "Replies"
+msgstr ""
+
+#: bbpress/content-statistics.php:37
+#@ bbpress
+msgid "Topic Tags"
+msgstr ""
+
+#: bbpress/content-statistics.php:44
+#@ bbpress
+msgid "Empty Topic Tags"
+msgstr ""
+
+#: bbpress/content-statistics.php:53
+#@ bbpress
+msgid "Hidden Topics"
+msgstr ""
+
+#: bbpress/content-statistics.php:64
+#@ bbpress
+msgid "Hidden Replies"
+msgstr ""
+
+#: bbpress/feedback-logged-in.php:13
+#@ bbpress
+msgid "You are already logged in."
+msgstr ""
+
+#: bbpress/feedback-no-access.php:13
+#@ bbpress
+msgid "Private"
+msgstr ""
+
+#: bbpress/feedback-no-access.php:16
+#@ bbpress
+msgid "You do not have permission to view this forum."
+msgstr ""
+
+#: bbpress/feedback-no-forums.php:13
+#@ bbpress
+msgid "Oh bother! No forums were found here!"
+msgstr ""
+
+#: bbpress/feedback-no-replies.php:13
+#@ bbpress
+msgid "Oh bother! No replies were found here!"
+msgstr ""
+
+#: bbpress/feedback-no-search.php:13
+#@ bbpress
+msgid "Oh bother! No search results were found here!"
+msgstr ""
+
+#: bbpress/feedback-no-topics.php:13
+#@ bbpress
+msgid "Oh bother! No topics were found here!"
+msgstr ""
+
+#: bbpress/form-anonymous.php:17
+#@ bbpress
+msgid "Author Information"
+msgstr ""
+
+#: bbpress/form-anonymous.php:17
+#@ bbpress
+msgid "Your information:"
+msgstr ""
+
+#: bbpress/form-anonymous.php:22
+#@ bbpress
+msgid "Name (required):"
+msgstr ""
+
+#: bbpress/form-anonymous.php:27
+#@ bbpress
+msgid "Mail (will not be published) (required):"
+msgstr ""
+
+#: bbpress/form-anonymous.php:32
+#@ bbpress
+msgid "Website:"
+msgstr ""
+
+#: bbpress/form-forum.php:35
+#: bbpress/form-topic.php:41
+#, php-format
+#@ bbpress
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-forum.php:37
+#, php-format
+#@ bbpress
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-forum.php:37
+#@ bbpress
+msgid "Create New Forum"
+msgstr ""
+
+#: bbpress/form-forum.php:47
+#@ bbpress
+msgid "This forum is closed to new content, however your account still allows you to do so."
+msgstr ""
+
+#: bbpress/form-forum.php:55
+#: bbpress/form-reply.php:44
+#: bbpress/form-topic.php:61
+#@ bbpress
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr ""
+
+#: bbpress/form-forum.php:67
+#, php-format
+#@ bbpress
+msgid "Forum Name (Maximum Length: %d):"
+msgstr ""
+
+#: bbpress/form-forum.php:82
+#: bbpress/form-reply.php:64
+#: bbpress/form-topic.php:90
+#@ bbpress
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes:"
+msgstr ""
+
+#: bbpress/form-forum.php:91
+#@ bbpress
+msgid "Forum Type:"
+msgstr ""
+
+#: bbpress/form-forum.php:100
+#@ bbpress
+msgid "Status:"
+msgstr ""
+
+#: bbpress/form-forum.php:109
+#@ bbpress
+msgid "Visibility:"
+msgstr ""
+
+#: bbpress/form-forum.php:118
+#@ bbpress
+msgid "Parent Forum:"
+msgstr ""
+
+#: bbpress/form-forum.php:123
+#@ bbpress
+msgid "(No Parent)"
+msgstr ""
+
+#: bbpress/form-forum.php:138
+#: bbpress/form-reply-move.php:72
+#: bbpress/form-reply.php:135
+#: bbpress/form-topic-merge.php:93
+#: bbpress/form-topic-split.php:97
+#: bbpress/form-topic.php:203
+#@ bbpress
+msgid "Submit"
+msgstr ""
+
+#: bbpress/form-forum.php:161
+#, php-format
+#@ bbpress
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr ""
+
+#: bbpress/form-forum.php:169
+#@ bbpress
+msgid "You cannot create new forums."
+msgstr ""
+
+#: bbpress/form-forum.php:169
+#@ bbpress
+msgid "You must be logged in to create new forums."
+msgstr ""
+
+#: bbpress/form-protected.php:14
+#@ bbpress
+msgid "Protected"
+msgstr ""
+
+#: bbpress/form-reply-move.php:24
+#, php-format
+#@ bbpress
+msgid "Move reply \"%s\""
+msgstr ""
+
+#: bbpress/form-reply-move.php:29
+#@ bbpress
+msgid "You can either make this reply a new topic with a new title, or merge it into an existing topic."
+msgstr ""
+
+#: bbpress/form-reply-move.php:33
+#@ bbpress
+msgid "If you choose an existing topic, replies will be ordered by the time and date they were created."
+msgstr ""
+
+#: bbpress/form-reply-move.php:37
+#@ bbpress
+msgid "Move Method"
+msgstr ""
+
+#: bbpress/form-reply-move.php:41
+#: bbpress/form-topic-split.php:41
+#, php-format
+#@ bbpress
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr ""
+
+#: bbpress/form-reply-move.php:42
+#, php-format
+#@ bbpress
+msgid "Moved: %s"
+msgstr ""
+
+#: bbpress/form-reply-move.php:49
+#: bbpress/form-topic-split.php:49
+#@ bbpress
+msgid "Use an existing topic in this forum:"
+msgstr ""
+
+#: bbpress/form-reply-move.php:68
+#: bbpress/form-topic-merge.php:89
+#: bbpress/form-topic-split.php:93
+#@ bbpress
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr ""
+
+#: bbpress/form-reply-move.php:85
+#@ bbpress
+msgid "You do not have the permissions to edit this reply!"
+msgstr ""
+
+#: bbpress/form-reply-move.php:85
+#@ bbpress
+msgid "You cannot edit this reply."
+msgstr ""
+
+#: bbpress/form-reply.php:29
+#, php-format
+#@ bbpress
+msgid "Reply To: %s"
+msgstr ""
+
+#: bbpress/form-reply.php:36
+#@ bbpress
+msgid "This topic is marked as closed to new replies, however your posting capabilities still allow you to do so."
+msgstr ""
+
+#: bbpress/form-reply.php:75
+#@ bbpress
+msgid "Tags:"
+msgstr ""
+
+#: bbpress/form-reply.php:93
+#: bbpress/form-topic.php:164
+#@ bbpress
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-reply.php:97
+#: bbpress/form-topic.php:168
+#@ bbpress
+msgid "Notify me of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-reply.php:114
+#: bbpress/form-topic.php:184
+#@ bbpress
+msgid "Keep a log of this edit:"
+msgstr ""
+
+#: bbpress/form-reply.php:118
+#: bbpress/form-topic.php:188
+#@ bbpress
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: bbpress/form-reply.php:158
+#, php-format
+#@ bbpress
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr ""
+
+#: bbpress/form-reply.php:166
+#: bbpress/form-topic.php:226
+#, php-format
+#@ bbpress
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: bbpress/form-reply.php:174
+#@ bbpress
+msgid "You cannot reply to this topic."
+msgstr ""
+
+#: bbpress/form-reply.php:174
+#@ bbpress
+msgid "You must be logged in to reply to this topic."
+msgstr ""
+
+#: bbpress/form-search.php:14
+#@ bbpress
+msgid "Search for:"
+msgstr ""
+
+#: bbpress/form-search.php:17
+#: searchform.php:7
+#@ bbpress
+#@ default
+msgid "Search"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:24
+#, php-format
+#@ bbpress
+msgid "Merge topic \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-merge.php:29
+#@ bbpress
+msgid "Select the topic to merge this one into. The destination topic will remain the lead topic, and this one will change into a reply."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:30
+#@ bbpress
+msgid "To keep this topic as the lead, go to the other topic and use the merge tool from there instead."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:34
+#@ bbpress
+msgid "All replies within both topics will be merged chronologically. The order of the merged replies is based on the time and date they were posted. If the destination topic was created after this one, it's post date will be updated to second earlier than this one."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:38
+#@ bbpress
+msgid "Destination"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:42
+#@ bbpress
+msgid "Merge with this topic:"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:56
+#@ bbpress
+msgid "There are no other topics in this forum to merge with."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:64
+#: bbpress/form-topic-split.php:68
+#@ bbpress
+msgid "Topic Extras"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:71
+#@ bbpress
+msgid "Merge topic subscribers"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:76
+#@ bbpress
+msgid "Merge topic favoriters"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:81
+#@ bbpress
+msgid "Merge topic tags"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:106
+#: bbpress/form-topic-split.php:110
+#@ bbpress
+msgid "You do not have the permissions to edit this topic!"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:106
+#: bbpress/form-topic-split.php:110
+#@ bbpress
+msgid "You cannot edit this topic."
+msgstr ""
+
+#: bbpress/form-topic-split.php:24
+#, php-format
+#@ bbpress
+msgid "Split topic \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-split.php:29
+#@ bbpress
+msgid "When you split a topic, you are slicing it in half starting with the reply you just selected. Choose to use that reply as a new topic with a new title, or merge those replies into an existing topic."
+msgstr ""
+
+#: bbpress/form-topic-split.php:33
+#@ bbpress
+msgid "If you use the existing topic option, replies within both topics will be merged chronologically. The order of the merged replies is based on the time and date they were posted."
+msgstr ""
+
+#: bbpress/form-topic-split.php:37
+#@ bbpress
+msgid "Split Method"
+msgstr ""
+
+#: bbpress/form-topic-split.php:42
+#, php-format
+#@ bbpress
+msgid "Split: %s"
+msgstr ""
+
+#: bbpress/form-topic-split.php:75
+#@ bbpress
+msgid "Copy subscribers to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-split.php:80
+#@ bbpress
+msgid "Copy favoriters to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-split.php:85
+#@ bbpress
+msgid "Copy topic tags to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:18
+#, php-format
+#@ bbpress
+msgid "Manage Tag: \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-tag.php:22
+#@ bbpress
+msgid "Rename"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:25
+#@ bbpress
+msgid "Leave the slug empty to have one automatically generated."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:29
+#@ bbpress
+msgid "Changing the slug affects its permalink. Any links to the old slug will stop working."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:35
+#@ bbpress
+msgid "Name:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:40
+#@ bbpress
+msgid "Slug:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:45
+#: paid-memberships-pro/pages/billing.php:294
+#@ bbpress
+#@ pmpro
+msgid "Update"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:59
+#: bbpress/form-topic-tag.php:73
+#: kleo-framework/lib/function-breadcrumb.php:602
+#@ bbpress
+#@ kleo_framework
+msgid "Merge"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:62
+#@ bbpress
+msgid "Merging tags together cannot be undone."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:68
+#@ bbpress
+msgid "Existing tag:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:73
+#, php-format
+#@ bbpress
+msgid "Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:88
+#: bbpress/form-topic-tag.php:101
+#: buddypress/activity/comment.php:43
+#: buddypress/members/single/messages/messages-loop.php:55
+#: buddypress/members/single/messages/single.php:24
+#: kleo-framework/options/inc/fields/group/field_group.php:138
+#: kleo-framework/options/inc/fields/group/field_group.php:203
+#@ bbpress
+#@ buddypress
+#@ redux-framework
+msgid "Delete"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:91
+#@ bbpress
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:94
+#@ bbpress
+msgid "Deleting a tag cannot be undone."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:95
+#@ bbpress
+msgid "Any links to this tag will no longer function."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:101
+#, php-format
+#@ bbpress
+msgid "Are you sure you want to delete the \"%s\" tag? This is permanent and cannot be undone."
+msgstr ""
+
+#: bbpress/form-topic.php:43
+#, php-format
+#@ bbpress
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-topic.php:43
+#@ bbpress
+msgid "Create New Topic"
+msgstr ""
+
+#: bbpress/form-topic.php:53
+#@ bbpress
+msgid "This forum is marked as closed to new topics, however your posting capabilities still allow you to do so."
+msgstr ""
+
+#: bbpress/form-topic.php:75
+#, php-format
+#@ bbpress
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: bbpress/form-topic.php:101
+#@ bbpress
+msgid "Topic Tags:"
+msgstr ""
+
+#: bbpress/form-topic.php:114
+#@ bbpress
+msgid "Forum:"
+msgstr ""
+
+#: bbpress/form-topic.php:117
+#@ bbpress
+msgid "(No Forum)"
+msgstr ""
+
+#: bbpress/form-topic.php:133
+#@ bbpress
+msgid "Topic Type:"
+msgstr ""
+
+#: bbpress/form-topic.php:145
+#@ bbpress
+msgid "Topic Status:"
+msgstr ""
+
+#: bbpress/form-topic.php:234
+#@ bbpress
+msgid "You cannot create new topics."
+msgstr ""
+
+#: bbpress/form-topic.php:234
+#@ bbpress
+msgid "You must be logged in to create new topics."
+msgstr ""
+
+#: bbpress/form-user-edit.php:14
+#: bbpress/form-user-edit.php:19
+#: buddypress/members/single/profile/profile-wp.php:15
+#: functions.php:628
+#@ bbpress
+#@ buddypress
+#@ kleo_framework
+msgid "Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:24
+#: paid-memberships-pro/pages/billing.php:65
+#: paid-memberships-pro/pages/checkout.php:336
+#@ bbpress
+#@ pmpro
+msgid "First Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:29
+#: paid-memberships-pro/pages/billing.php:69
+#: paid-memberships-pro/pages/checkout.php:340
+#@ bbpress
+#@ pmpro
+msgid "Last Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:34
+#@ bbpress
+msgid "Nickname"
+msgstr ""
+
+#: bbpress/form-user-edit.php:39
+#@ bbpress
+msgid "Display Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:49
+#: bbpress/form-user-edit.php:52
+#@ bbpress
+msgid "Contact Info"
+msgstr ""
+
+#: bbpress/form-user-edit.php:57
+#: buddypress/members/single/profile/profile-wp.php:33
+#: functions.php:630
+#@ bbpress
+#@ buddypress
+#@ kleo_framework
+msgid "Website"
+msgstr ""
+
+#: bbpress/form-user-edit.php:74
+#: bbpress/form-user-edit.php:77
+#@ bbpress
+msgid "About Yourself"
+msgstr ""
+
+#: bbpress/form-user-edit.php:74
+#: bbpress/form-user-edit.php:77
+#@ bbpress
+msgid "About the user"
+msgstr ""
+
+#: bbpress/form-user-edit.php:82
+#@ bbpress
+msgid "Biographical Info"
+msgstr ""
+
+#: bbpress/form-user-edit.php:90
+#: bbpress/form-user-edit.php:93
+#: paid-memberships-pro/pages/confirmation.php:46
+#: paid-memberships-pro/pages/confirmation.php:104
+#@ bbpress
+#@ pmpro
+msgid "Account"
+msgstr ""
+
+#: bbpress/form-user-edit.php:98
+#: bbpress/form-user-login.php:17
+#: bbpress/form-user-register.php:23
+#: buddypress/members/register.php:32
+#: kleo-framework/options/inc/fields/password/field_password.php:56
+#: paid-memberships-pro/pages/checkout.php:171
+#@ bbpress
+#@ buddypress
+#@ redux-framework
+#@ pmpro
+msgid "Username"
+msgstr ""
+
+#: bbpress/form-user-edit.php:103
+#: bbpress/form-user-register.php:28
+#: functions.php:629
+#@ bbpress
+#@ kleo_framework
+msgid "Email"
+msgstr ""
+
+#: bbpress/form-user-edit.php:115
+#, php-format
+#@ bbpress
+msgid "There is a pending email address change to <code>%1$s</code>. <a href=\"%2$s\">Cancel</a>"
+msgstr ""
+
+#: bbpress/form-user-edit.php:124
+#: buddypress/members/single/settings/general.php:16
+#@ bbpress
+#@ buddypress
+msgid "New Password"
+msgstr ""
+
+#: bbpress/form-user-edit.php:127
+#@ bbpress
+msgid "If you would like to change the password type a new one. Otherwise leave this blank."
+msgstr ""
+
+#: bbpress/form-user-edit.php:130
+#@ bbpress
+msgid "Type your new password again."
+msgstr ""
+
+#: bbpress/form-user-edit.php:133
+#@ bbpress
+msgid "Your password should be at least ten characters long. Use upper and lower case letters, numbers, and symbols to make it even stronger."
+msgstr ""
+
+#: bbpress/form-user-edit.php:143
+#: bbpress/form-user-edit.php:146
+#@ bbpress
+msgid "User Role"
+msgstr ""
+
+#: bbpress/form-user-edit.php:153
+#@ bbpress
+msgid "Network Role"
+msgstr ""
+
+#: bbpress/form-user-edit.php:156
+#@ bbpress
+msgid "Grant this user super admin privileges for the Network."
+msgstr ""
+
+#: bbpress/form-user-edit.php:173
+#: buddypress/groups/single/admin.php:32
+#: buddypress/groups/single/admin.php:117
+#: buddypress/groups/single/forum/edit.php:58
+#: buddypress/groups/single/forum/edit.php:74
+#: buddypress/members/single/profile/edit.php:149
+#: buddypress/members/single/settings/general.php:22
+#: buddypress/members/single/settings/notifications.php:11
+#: kleo-framework/options/framework.php:2283
+#: kleo-framework/options/framework.php:2553
+#@ bbpress
+#@ buddypress
+#@ domain
+msgid "Save Changes"
+msgstr ""
+
+#: bbpress/form-user-edit.php:178
+#@ bbpress
+msgid "Update Profile"
+msgstr ""
+
+#: bbpress/form-user-edit.php:178
+#@ bbpress
+msgid "Update User"
+msgstr ""
+
+#: bbpress/form-user-login.php:14
+#: bbpress/form-user-login.php:35
+#@ bbpress
+msgid "Log In"
+msgstr ""
+
+#: bbpress/form-user-login.php:22
+#: kleo-framework/options/inc/fields/password/field_password.php:55
+#: paid-memberships-pro/pages/checkout.php:180
+#@ bbpress
+#@ redux-framework
+#@ pmpro
+msgid "Password"
+msgstr ""
+
+#: bbpress/form-user-login.php:28
+#@ bbpress
+msgid "Keep me signed in"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:14
+#@ bbpress
+msgid "Lost Password"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:18
+#@ bbpress
+msgid "Username or Email"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:27
+#@ bbpress
+msgid "Reset My Password"
+msgstr ""
+
+#: bbpress/form-user-register.php:14
+#: kleo-framework/lib/function-breadcrumb.php:515
+#@ bbpress
+#@ buddypress
+msgid "Create an Account"
+msgstr ""
+
+#: bbpress/form-user-register.php:17
+#@ bbpress
+msgid "Your username must be unique, and cannot be changed later."
+msgstr ""
+
+#: bbpress/form-user-register.php:18
+#@ bbpress
+msgid "We use your email address to email you a secure password and verify your account."
+msgstr ""
+
+#: bbpress/form-user-register.php:36
+#@ bbpress
+msgid "Register"
+msgstr ""
+
+#: bbpress/form-user-roles.php:13
+#@ bbpress
+msgid "Blog Role"
+msgstr ""
+
+#: bbpress/form-user-roles.php:20
+#@ bbpress
+msgid "Forum Role"
+msgstr ""
+
+#: bbpress/loop-forums.php:19
+#@ bbpress
+msgid "Forum"
+msgstr ""
+
+#: bbpress/loop-forums.php:21
+#: bbpress/loop-replies.php:24
+#: bbpress/loop-topics.php:21
+#: buddypress/activity/index.php:80
+#: buddypress/forums/forums-loop.php:40
+#: buddypress/members/single/activity.php:31
+#@ bbpress
+#@ buddypress
+msgid "Posts"
+msgstr ""
+
+#: bbpress/loop-forums.php:22
+#: bbpress/loop-topics.php:22
+#: buddypress/forums/forums-loop.php:41
+#@ bbpress
+#@ buddypress
+msgid "Freshness"
+msgstr ""
+
+#: bbpress/loop-replies.php:18
+#: bbpress/loop-replies.php:60
+#: bbpress/loop-search.php:18
+#: bbpress/loop-search.php:40
+#: functions.php:556
+#@ bbpress
+#@ kleo_framework
+msgid "Author"
+msgstr ""
+
+#: bbpress/loop-search-forum.php:16
+#, php-format
+#@ bbpress
+msgid "Last updated %s"
+msgstr ""
+
+#: bbpress/loop-search-forum.php:26
+#@ bbpress
+msgid "Forum: "
+msgstr ""
+
+#: bbpress/loop-search-reply.php:24
+#@ bbpress
+msgid "In reply to: "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:26
+#@ bbpress
+msgid "Topic: "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:33
+#@ bbpress
+msgid "in group forum "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:37
+#@ bbpress
+msgid "in forum "
+msgstr ""
+
+#: bbpress/loop-search.php:22
+#: bbpress/loop-search.php:44
+#@ bbpress
+msgid "Search Results"
+msgstr ""
+
+#: bbpress/loop-single-reply.php:21
+#@ bbpress
+msgid "in reply to: "
+msgstr ""
+
+#: bbpress/loop-single-topic.php:60
+#, php-format
+#@ bbpress
+msgid "Started by: %1$s"
+msgstr ""
+
+#: bbpress/loop-single-topic.php:68
+#, php-format
+#@ bbpress
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: bbpress/loop-topics.php:20
+#@ bbpress
+msgid "Voices"
+msgstr ""
+
+#: bbpress/user-details.php:29
+#: buddypress/members/single/profile/profile-wp.php:8
+#, php-format
+#@ bbpress
+#@ buddypress
+msgid "%s's Profile"
+msgstr ""
+
+#: bbpress/user-details.php:29
+#: bbpress/user-profile.php:15
+#@ bbpress
+msgid "Profile"
+msgstr ""
+
+#: bbpress/user-details.php:35
+#, php-format
+#@ bbpress
+msgid "%s's Topics Started"
+msgstr ""
+
+#: bbpress/user-details.php:35
+#@ bbpress
+msgid "Topics Started"
+msgstr ""
+
+#: bbpress/user-details.php:41
+#, php-format
+#@ bbpress
+msgid "%s's Replies Created"
+msgstr ""
+
+#: bbpress/user-details.php:41
+#@ bbpress
+msgid "Replies Created"
+msgstr ""
+
+#: bbpress/user-details.php:48
+#, php-format
+#@ bbpress
+msgid "%s's Favorites"
+msgstr ""
+
+#: bbpress/user-details.php:48
+#@ bbpress
+msgid "Favorites"
+msgstr ""
+
+#: bbpress/user-details.php:58
+#, php-format
+#@ bbpress
+msgid "%s's Subscriptions"
+msgstr ""
+
+#: bbpress/user-details.php:58
+#@ bbpress
+msgid "Subscriptions"
+msgstr ""
+
+#: bbpress/user-details.php:65
+#, php-format
+#@ bbpress
+msgid "Edit %s's Profile"
+msgstr ""
+
+#: bbpress/user-details.php:65
+#: content-aside.php:32
+#: content-audio.php:30
+#: content-gallery.php:30
+#: content-image.php:30
+#: content-link.php:24
+#: content-quote.php:31
+#: content-video.php:30
+#: content.php:32
+#: functions.php:574
+#: kleo-framework/lib/function-breadcrumb.php:573
+#: kleo-framework/lib/function-breadcrumb.php:606
+#: kleo-framework/lib/function-breadcrumb.php:621
+#: kleo-framework/lib/function-breadcrumb.php:649
+#@ bbpress
+#@ kleo_framework
+msgid "Edit"
+msgstr ""
+
+#: bbpress/user-favorites.php:15
+#@ bbpress
+msgid "Favorite Forum Topics"
+msgstr ""
+
+#: bbpress/user-favorites.php:28
+#@ bbpress
+msgid "You currently have no favorite topics."
+msgstr ""
+
+#: bbpress/user-favorites.php:28
+#@ bbpress
+msgid "This user has no favorite topics."
+msgstr ""
+
+#: bbpress/user-profile.php:24
+#, php-format
+#@ bbpress
+msgid "Forum Role: %s"
+msgstr ""
+
+#: bbpress/user-profile.php:25
+#, php-format
+#@ bbpress
+msgid "Topics Started: %s"
+msgstr ""
+
+#: bbpress/user-profile.php:26
+#, php-format
+#@ bbpress
+msgid "Replies Created: %s"
+msgstr ""
+
+#: bbpress/user-replies-created.php:15
+#@ bbpress
+msgid "Forum Replies Created"
+msgstr ""
+
+#: bbpress/user-replies-created.php:28
+#@ bbpress
+msgid "You have not replied to any topics."
+msgstr ""
+
+#: bbpress/user-replies-created.php:28
+#@ bbpress
+msgid "This user has not replied to any topics."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:19
+#@ bbpress
+msgid "Subscribed Forums"
+msgstr ""
+
+#: bbpress/user-subscriptions.php:28
+#@ bbpress
+msgid "You are not currently subscribed to any forums."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:28
+#@ bbpress
+msgid "This user is not currently subscribed to any forums."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:34
+#@ bbpress
+msgid "Subscribed Topics"
+msgstr ""
+
+#: bbpress/user-subscriptions.php:47
+#@ bbpress
+msgid "You are not currently subscribed to any topics."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:47
+#@ bbpress
+msgid "This user is not currently subscribed to any topics."
+msgstr ""
+
+#: bbpress/user-topics-created.php:15
+#@ bbpress
+msgid "Forum Topics Started"
+msgstr ""
+
+#: bbpress/user-topics-created.php:28
+#@ bbpress
+msgid "You have not created any topics."
+msgstr ""
+
+#: bbpress/user-topics-created.php:28
+#@ bbpress
+msgid "This user has not created any topics."
+msgstr ""
+
+#: buddypress/activity/activity-loop.php:28
+#@ buddypress
+msgid "Load More"
+msgstr ""
+
+#: buddypress/activity/activity-loop.php:42
+#@ buddypress
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr ""
+
+#. translators: 1: user profile link, 2: user name, 3: activity permalink, 4: activity timestamp
+#: buddypress/activity/comment.php:27
+#, php-format
+#@ buddypress
+msgid "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
+msgstr ""
+
+#: buddypress/activity/comment.php:37
+#: buddypress/groups/single/forum/edit.php:10
+#: functions.php:578
+#@ buddypress
+#@ kleo_framework
+msgid "Reply"
+msgstr ""
+
+#: buddypress/activity/entry.php:51
+#@ buddypress
+msgid "View Conversation"
+msgstr ""
+
+#: buddypress/activity/entry.php:59
+#, php-format
+#@ buddypress
+msgid "Comment <span>%s</span>"
+msgstr ""
+
+#: buddypress/activity/entry.php:67
+#@ buddypress
+msgid "Mark as Favorite"
+msgstr ""
+
+#: buddypress/activity/entry.php:71
+#@ buddypress
+msgid "Remove Favorite"
+msgstr ""
+
+#: buddypress/activity/entry.php:103
+#@ buddypress
+msgid "Post"
+msgstr ""
+
+#: buddypress/activity/entry.php:103
+#: buddypress/forums/index.php:116
+#: paid-memberships-pro/pages/billing.php:295
+#@ buddypress
+#@ pmpro
+msgid "Cancel"
+msgstr ""
+
+#: buddypress/activity/index.php:19
+#@ buddypress
+msgid "The public activity for everyone on this site."
+msgstr ""
+
+#: buddypress/activity/index.php:19
+#: buddypress/members/index.php:19
+#, php-format
+#@ buddypress
+msgid "All Members <span>%s</span>"
+msgstr ""
+
+#: buddypress/activity/index.php:29
+#@ buddypress
+msgid "The activity of my friends only."
+msgstr ""
+
+#: buddypress/activity/index.php:29
+#: buddypress/members/index.php:22
+#, php-format
+#@ buddypress
+msgid "My Friends <span>%s</span>"
+msgstr ""
+
+#: buddypress/activity/index.php:41
+#@ buddypress
+msgid "The activity of groups I am a member of."
+msgstr ""
+
+#: buddypress/activity/index.php:41
+#: buddypress/groups/index.php:22
+#, php-format
+#@ buddypress
+msgid "My Groups <span>%s</span>"
+msgstr ""
+
+#: buddypress/activity/index.php:51
+#@ buddypress
+msgid "The activity I've marked as a favorite."
+msgstr ""
+
+#: buddypress/activity/index.php:51
+#, php-format
+#@ buddypress
+msgid "My Favorites <span>%s</span>"
+msgstr ""
+
+#: buddypress/activity/index.php:59
+#@ buddypress
+msgid "Activity that I have been mentioned in."
+msgstr ""
+
+#: buddypress/activity/index.php:59
+#@ buddypress
+msgid "Mentions"
+msgstr ""
+
+#: buddypress/activity/index.php:59
+#, php-format
+#@ buddypress
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] ""
+msgstr[1] ""
+
+#: buddypress/activity/index.php:67
+#: buddypress/groups/single/activity.php:3
+#@ buddypress
+msgid "RSS Feed"
+msgstr ""
+
+#: buddypress/activity/index.php:67
+#: buddypress/groups/single/activity.php:3
+#@ buddypress
+msgid "RSS"
+msgstr ""
+
+#: buddypress/activity/index.php:72
+#: buddypress/groups/single/activity.php:8
+#: buddypress/members/single/activity.php:21
+#@ buddypress
+msgid "Show:"
+msgstr ""
+
+#: buddypress/activity/index.php:75
+#: buddypress/groups/single/activity.php:10
+#: buddypress/members/single/activity.php:24
+#@ buddypress
+msgid "Everything"
+msgstr ""
+
+#: buddypress/activity/index.php:76
+#: buddypress/groups/single/activity.php:11
+#: buddypress/members/single/activity.php:25
+#@ buddypress
+msgid "Updates"
+msgstr ""
+
+#: buddypress/activity/index.php:81
+#: buddypress/members/single/activity.php:32
+#@ buddypress
+msgid "Comments"
+msgstr ""
+
+#: buddypress/activity/index.php:87
+#: buddypress/groups/single/activity.php:14
+#: buddypress/members/single/activity.php:47
+#@ buddypress
+msgid "Forum Topics"
+msgstr ""
+
+#: buddypress/activity/index.php:88
+#: buddypress/groups/single/activity.php:15
+#: buddypress/members/single/activity.php:48
+#@ buddypress
+msgid "Forum Replies"
+msgstr ""
+
+#: buddypress/activity/index.php:94
+#: buddypress/members/single/activity.php:54
+#@ buddypress
+msgid "New Groups"
+msgstr ""
+
+#: buddypress/activity/index.php:95
+#: buddypress/groups/single/activity.php:18
+#: buddypress/members/single/activity.php:55
+#@ buddypress
+msgid "Group Memberships"
+msgstr ""
+
+#: buddypress/activity/index.php:101
+#: buddypress/members/single/activity.php:39
+#@ buddypress
+msgid "Friendships"
+msgstr ""
+
+#: buddypress/activity/index.php:105
+#@ buddypress
+msgid "New Members"
+msgstr ""
+
+#: buddypress/activity/post-form.php:23
+#, php-format
+#@ buddypress
+msgid "What's new in %s, %s?"
+msgstr ""
+
+#: buddypress/activity/post-form.php:25
+#, php-format
+#@ buddypress
+msgid "What's new, %s?"
+msgstr ""
+
+#: buddypress/activity/post-form.php:35
+#@ buddypress
+msgid "Post Update"
+msgstr ""
+
+#: buddypress/activity/post-form.php:42
+#@ buddypress
+msgid "Post in"
+msgstr ""
+
+#: buddypress/activity/post-form.php:44
+#: buddypress/members/single/profile/profile-wp.php:8
+#@ buddypress
+msgid "My Profile"
+msgstr ""
+
+#: buddypress/blogs/blogs-loop.php:90
+#@ buddypress
+msgid "Sorry, there were no sites found."
+msgstr ""
+
+#: buddypress/blogs/create.php:15
+#@ buddypress
+msgid "Site registration is currently disabled"
+msgstr ""
+
+#: buddypress/blogs/index.php:32
+#, php-format
+#@ buddypress
+msgid "All Sites <span>%s</span>"
+msgstr ""
+
+#: buddypress/blogs/index.php:36
+#, php-format
+#@ buddypress
+msgid "My Sites <span>%s</span>"
+msgstr ""
+
+#: buddypress/blogs/index.php:47
+#: buddypress/forums/index.php:42
+#: buddypress/groups/index.php:31
+#: buddypress/groups/single/forum.php:36
+#: buddypress/members/index.php:30
+#: buddypress/members/single/blogs.php:19
+#: buddypress/members/single/forums.php:18
+#: buddypress/members/single/friends.php:20
+#: buddypress/members/single/groups.php:20
+#@ buddypress
+msgid "Order By:"
+msgstr ""
+
+#: buddypress/blogs/index.php:49
+#: buddypress/forums/index.php:44
+#: buddypress/groups/index.php:33
+#: buddypress/groups/single/forum.php:38
+#: buddypress/members/index.php:32
+#: buddypress/members/single/blogs.php:21
+#: buddypress/members/single/forums.php:20
+#: buddypress/members/single/friends.php:22
+#: buddypress/members/single/groups.php:22
+#@ buddypress
+msgid "Last Active"
+msgstr ""
+
+#: buddypress/blogs/index.php:50
+#: buddypress/members/single/blogs.php:22
+#@ buddypress
+msgid "Newest"
+msgstr ""
+
+#: buddypress/blogs/index.php:51
+#: buddypress/groups/index.php:36
+#: buddypress/members/index.php:36
+#: buddypress/members/single/blogs.php:23
+#: buddypress/members/single/friends.php:24
+#: buddypress/members/single/groups.php:25
+#@ buddypress
+msgid "Alphabetical"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:63
+#@ buddypress
+msgid "BuddyPress Legacy"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:233
+#@ buddypress
+msgid "Accepted"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:234
+#: buddypress/members/register.php:168
+#: buddypress/members/single/profile/edit.php:131
+#@ buddypress
+msgid "Close"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:235
+#@ buddypress
+msgid "comments"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:236
+#@ buddypress
+msgid "Are you sure you want to leave this group?"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:239
+#@ buddypress
+msgid "My Favorites"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:240
+#@ buddypress
+msgid "Rejected"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:243
+#@ buddypress
+msgid "Show all"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:244
+#@ buddypress
+msgid "Show all comments for this thread"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:245
+#, php-format
+#@ buddypress
+msgid "Show all %d comments"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:246
+#@ buddypress
+msgid "Your profile has unsaved changes. If you leave the page, the changes will be lost."
+msgstr ""
+
+#: buddypress/buddypress-functions.php:247
+#@ buddypress
+msgid "View"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:626
+#@ buddypress
+msgid "Please enter some content to post."
+msgstr ""
+
+#: buddypress/buddypress-functions.php:641
+#@ buddypress
+msgid "There was a problem posting your update, please try again."
+msgstr ""
+
+#: buddypress/buddypress-functions.php:674
+#@ buddypress
+msgid "Please do not leave the comment area blank."
+msgstr ""
+
+#: buddypress/buddypress-functions.php:677
+#: buddypress/buddypress-functions.php:686
+#@ buddypress
+msgid "There was an error posting that reply, please try again."
+msgstr ""
+
+#: buddypress/buddypress-functions.php:735
+#: buddypress/buddypress-functions.php:771
+#@ buddypress
+msgid "There was a problem when deleting. Please try again."
+msgstr ""
+
+#: buddypress/buddypress-functions.php:943
+#@ buddypress
+msgid "Remove Invite"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:947
+#, php-format
+#@ buddypress
+msgid "%s has previously requested to join this group. Sending an invitation will automatically add the member to the group."
+msgstr ""
+
+#: buddypress/buddypress-functions.php:992
+#@ buddypress
+msgid "Friendship could not be canceled."
+msgstr ""
+
+#: buddypress/buddypress-functions.php:994
+#: buddypress/buddypress-functions.php:1012
+#@ buddypress
+msgid "Add Friend"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1002
+#@ buddypress
+msgid " Friendship could not be requested."
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1004
+#@ buddypress
+msgid "Cancel Friendship Request"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1014
+#@ buddypress
+msgid "Friendship request could not be cancelled."
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1019
+#@ buddypress
+msgid "Request Pending"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1039
+#@ buddypress
+msgid "There was a problem accepting that request. Please try again."
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1058
+#@ buddypress
+msgid "There was a problem rejecting that request. Please try again."
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1088
+#@ buddypress
+msgid "Error joining group"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1090
+#: buddypress/buddypress-functions.php:1103
+#@ buddypress
+msgid "Leave Group"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1101
+#: buddypress/buddypress-functions.php:1111
+#@ buddypress
+msgid "Error requesting membership"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1113
+#@ buddypress
+msgid "Membership Requested"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1122
+#@ buddypress
+msgid "Error leaving group"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1124
+#@ buddypress
+msgid "Join Group"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1126
+#@ buddypress
+msgid "Request Membership"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1145
+#@ buddypress
+msgid "There was a problem closing the notice."
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1191
+#, php-format
+#@ buddypress
+msgid "Sent %s"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1208
+#@ buddypress
+msgid "There was a problem sending that reply. Please try again."
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1226
+#@ buddypress
+msgid "There was a problem marking messages as unread."
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1251
+#@ buddypress
+msgid "There was a problem marking messages as read."
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1276
+#@ buddypress
+msgid "There was a problem deleting messages."
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1285
+#@ buddypress
+msgid "Messages deleted."
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1467
+#@ kleo_framework
+msgid "show less"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1468
+#@ kleo_framework
+msgid "show more"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1551
+#@ kleo_framework
+msgid "Previous Member"
+msgstr ""
+
+#: buddypress/buddypress-functions.php:1552
+#@ kleo_framework
+msgid "Next Member"
+msgstr ""
+
+#: buddypress/forums/forums-loop.php:54
+#: buddypress/groups/single/forum/topic.php:95
+#@ buddypress
+msgid "Permanent link to this post"
+msgstr ""
+
+#. translators: "started by [poster] in [forum]
+#: buddypress/forums/forums-loop.php:61
+#, php-format
+#@ buddypress
+msgid "Started by %1$s"
+msgstr ""
+
+#. translators: "started by [poster] in [forum]
+#: buddypress/forums/forums-loop.php:72
+#, php-format
+#@ buddypress
+msgid "in %1$s"
+msgstr ""
+
+#: buddypress/forums/forums-loop.php:122
+#@ buddypress
+msgid "Sorry, there were no forum topics found."
+msgstr ""
+
+#: buddypress/forums/index.php:22
+#, php-format
+#@ buddypress
+msgid "All Topics <span>%s</span>"
+msgstr ""
+
+#: buddypress/forums/index.php:26
+#, php-format
+#@ buddypress
+msgid "My Topics <span>%s</span>"
+msgstr ""
+
+#: buddypress/forums/index.php:45
+#: buddypress/groups/single/forum.php:39
+#: buddypress/members/single/forums.php:21
+#@ buddypress
+msgid "Most Posts"
+msgstr ""
+
+#: buddypress/forums/index.php:46
+#: buddypress/groups/single/forum.php:40
+#: buddypress/members/single/forums.php:22
+#@ buddypress
+msgid "Unreplied"
+msgstr ""
+
+#: buddypress/forums/index.php:82
+#@ buddypress
+msgid "Create New Topic:"
+msgstr ""
+
+#: buddypress/forums/index.php:86
+#: buddypress/groups/single/forum/edit.php:47
+#: buddypress/groups/single/forum.php:75
+#: lib/item-likes.php:222
+#: lib/widgets/recent_posts.php:123
+#@ buddypress
+#@ kleo_framework
+msgid "Title:"
+msgstr ""
+
+#: buddypress/forums/index.php:89
+#: buddypress/groups/single/forum/edit.php:50
+#: buddypress/groups/single/forum.php:78
+#@ buddypress
+msgid "Content:"
+msgstr ""
+
+#: buddypress/forums/index.php:92
+#: buddypress/groups/single/forum/edit.php:53
+#: buddypress/groups/single/forum.php:81
+#@ buddypress
+msgid "Tags (comma separated):"
+msgstr ""
+
+#: buddypress/forums/index.php:95
+#@ buddypress
+msgid "Post In Group Forum:"
+msgstr ""
+
+#. translators: no option picked in select box
+#: buddypress/forums/index.php:98
+#@ buddypress
+msgid "----"
+msgstr ""
+
+#: buddypress/forums/index.php:115
+#: buddypress/groups/single/forum.php:87
+#@ buddypress
+msgid "Post Topic"
+msgstr ""
+
+#: buddypress/forums/index.php:127
+#, php-format
+#@ buddypress
+msgid "You are not a member of any groups so you don't have any group forums you can post in. To start posting, first find a group that matches the topic subject you'd like to start. If this group does not exist, why not <a href='%s'>create a new group</a>? Once you have joined or created the group you can post your topic in that group's forum."
+msgstr ""
+
+#: buddypress/groups/create.php:34
+#: buddypress/groups/single/admin.php:16
+#@ buddypress
+msgid "Group Name (required)"
+msgstr ""
+
+#: buddypress/groups/create.php:39
+#: buddypress/groups/single/admin.php:19
+#@ buddypress
+msgid "Group Description (required)"
+msgstr ""
+
+#: buddypress/groups/create.php:56
+#: buddypress/groups/single/admin.php:56
+#@ buddypress
+msgid "Privacy Options"
+msgstr ""
+
+#: buddypress/groups/create.php:61
+#: buddypress/groups/single/admin.php:61
+#@ buddypress
+msgid "This is a public group"
+msgstr ""
+
+#: buddypress/groups/create.php:63
+#: buddypress/groups/single/admin.php:63
+#@ buddypress
+msgid "Any site member can join this group."
+msgstr ""
+
+#: buddypress/groups/create.php:64
+#: buddypress/groups/create.php:74
+#: buddypress/groups/single/admin.php:64
+#: buddypress/groups/single/admin.php:74
+#@ buddypress
+msgid "This group will be listed in the groups directory and in search results."
+msgstr ""
+
+#: buddypress/groups/create.php:65
+#: buddypress/groups/single/admin.php:65
+#@ buddypress
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+
+#: buddypress/groups/create.php:71
+#: buddypress/groups/single/admin.php:71
+#@ buddypress
+msgid "This is a private group"
+msgstr ""
+
+#: buddypress/groups/create.php:73
+#: buddypress/groups/single/admin.php:73
+#@ buddypress
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+
+#: buddypress/groups/create.php:75
+#: buddypress/groups/create.php:85
+#: buddypress/groups/single/admin.php:75
+#: buddypress/groups/single/admin.php:85
+#@ buddypress
+msgid "Group content and activity will only be visible to members of the group."
+msgstr ""
+
+#: buddypress/groups/create.php:81
+#: buddypress/groups/single/admin.php:81
+#@ buddypress
+msgid "This is a hidden group"
+msgstr ""
+
+#: buddypress/groups/create.php:83
+#: buddypress/groups/single/admin.php:83
+#@ buddypress
+msgid "Only users who are invited can join the group."
+msgstr ""
+
+#: buddypress/groups/create.php:84
+#: buddypress/groups/single/admin.php:84
+#@ buddypress
+msgid "This group will not be listed in the groups directory or search results."
+msgstr ""
+
+#: buddypress/groups/create.php:90
+#: buddypress/groups/single/admin.php:92
+#@ buddypress
+msgid "Group Invitations"
+msgstr ""
+
+#: buddypress/groups/create.php:92
+#: buddypress/groups/single/admin.php:94
+#@ buddypress
+msgid "Which members of this group are allowed to invite others?"
+msgstr ""
+
+#: buddypress/groups/create.php:98
+#: buddypress/groups/single/admin.php:99
+#@ buddypress
+msgid "All group members"
+msgstr ""
+
+#: buddypress/groups/create.php:104
+#: buddypress/groups/single/admin.php:104
+#@ buddypress
+msgid "Group admins and mods only"
+msgstr ""
+
+#: buddypress/groups/create.php:110
+#: buddypress/groups/single/admin.php:109
+#@ buddypress
+msgid "Group admins only"
+msgstr ""
+
+#: buddypress/groups/create.php:116
+#@ buddypress
+msgid "Group Forums"
+msgstr ""
+
+#: buddypress/groups/create.php:120
+#@ buddypress
+msgid "Should this group have a forum?"
+msgstr ""
+
+#: buddypress/groups/create.php:123
+#: buddypress/groups/single/admin.php:47
+#@ buddypress
+msgid "Enable discussion forum"
+msgstr ""
+
+#: buddypress/groups/create.php:127
+#, php-format
+#@ buddypress
+msgid "<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+
+#: buddypress/groups/create.php:153
+#: buddypress/groups/single/admin.php:127
+#@ buddypress
+msgid "Upload an image to use as an avatar for this group. The image will be shown on the main group page, and in search results."
+msgstr ""
+
+#: buddypress/groups/create.php:157
+#: buddypress/groups/single/admin.php:131
+#: buddypress/members/single/profile/change-avatar.php:29
+#@ buddypress
+msgid "Upload Image"
+msgstr ""
+
+#: buddypress/groups/create.php:161
+#@ buddypress
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr ""
+
+#: buddypress/groups/create.php:168
+#@ buddypress
+msgid "Crop Group Avatar"
+msgstr ""
+
+#: buddypress/groups/create.php:170
+#: buddypress/groups/single/admin.php:151
+#: buddypress/members/single/profile/change-avatar.php:49
+#@ buddypress
+msgid "Avatar to crop"
+msgstr ""
+
+#: buddypress/groups/create.php:173
+#: buddypress/groups/single/admin.php:154
+#: buddypress/members/single/profile/change-avatar.php:52
+#@ buddypress
+msgid "Avatar preview"
+msgstr ""
+
+#: buddypress/groups/create.php:176
+#: buddypress/groups/single/admin.php:157
+#: buddypress/members/single/profile/change-avatar.php:55
+#@ buddypress
+msgid "Crop Image"
+msgstr ""
+
+#: buddypress/groups/create.php:256
+#: buddypress/groups/single/send-invites.php:79
+#@ buddypress
+msgid "Once you have built up friend connections you will be able to invite others to your group."
+msgstr ""
+
+#: buddypress/groups/create.php:278
+#@ buddypress
+msgid "Back to Previous Step"
+msgstr ""
+
+#: buddypress/groups/create.php:285
+#@ buddypress
+msgid "Next Step"
+msgstr ""
+
+#: buddypress/groups/create.php:292
+#@ buddypress
+msgid "Create Group and Continue"
+msgstr ""
+
+#: buddypress/groups/create.php:299
+#@ buddypress
+msgid "Finish"
+msgstr ""
+
+#: buddypress/groups/groups-loop.php:67
+#: buddypress/groups/single/group-header.php:21
+#, php-format
+#@ buddypress
+msgid "active %s"
+msgstr ""
+
+#: buddypress/groups/groups-loop.php:116
+#@ buddypress
+msgid "There were no groups found."
+msgstr ""
+
+#: buddypress/groups/index.php:19
+#, php-format
+#@ buddypress
+msgid "All Groups <span>%s</span>"
+msgstr ""
+
+#: buddypress/groups/index.php:34
+#: buddypress/members/single/groups.php:23
+#@ buddypress
+msgid "Most Members"
+msgstr ""
+
+#: buddypress/groups/index.php:35
+#: buddypress/members/single/groups.php:24
+#@ buddypress
+msgid "Newly Created"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:26
+#@ buddypress
+msgid "Notify group members of these changes via email"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:137
+#@ buddypress
+msgid "If you'd like to remove the existing avatar but not upload a new one, please use the delete avatar button."
+msgstr ""
+
+#: buddypress/groups/single/admin.php:139
+#: buddypress/members/single/profile/change-avatar.php:37
+#@ buddypress
+msgid "Delete Avatar"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:149
+#@ buddypress
+msgid "Crop Avatar"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:177
+#@ buddypress
+msgid "Administrators"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:185
+#: buddypress/groups/single/admin.php:212
+#, php-format
+#@ buddypress
+msgid "Profile picture of %s"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:190
+#: buddypress/groups/single/admin.php:217
+#@ buddypress
+msgid "Demote to Member"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:205
+#@ buddypress
+msgid "Moderators"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:216
+#: buddypress/groups/single/admin.php:272
+#@ buddypress
+msgid "Promote to Admin"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:231
+#: kleo-framework/lib/function-breadcrumb.php:505
+#@ buddypress
+msgid "Members"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:260
+#@ buddypress
+msgid "(banned)"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:266
+#@ buddypress
+msgid "Unban this member"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:266
+#@ buddypress
+msgid "Remove Ban"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:270
+#@ buddypress
+msgid "Kick and ban this member"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:270
+#@ buddypress
+msgid "Kick &amp; Ban"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:271
+#@ buddypress
+msgid "Promote to Mod"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:276
+#@ buddypress
+msgid "Remove this member"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:276
+#@ buddypress
+msgid "Remove from group"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:290
+#: buddypress/groups/single/members.php:91
+#@ buddypress
+msgid "This group has no members."
+msgstr ""
+
+#: buddypress/groups/single/admin.php:320
+#: buddypress/members/single/friends/requests.php:40
+#: buddypress/members/single/groups/invites.php:23
+#@ buddypress
+msgid "Accept"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:322
+#: buddypress/members/single/friends/requests.php:41
+#: buddypress/members/single/groups/invites.php:24
+#@ buddypress
+msgid "Reject"
+msgstr ""
+
+#: buddypress/groups/single/admin.php:335
+#@ buddypress
+msgid "There are no pending membership requests."
+msgstr ""
+
+#: buddypress/groups/single/admin.php:352
+#@ buddypress
+msgid "WARNING: Deleting this group will completely remove ALL content associated with it. There is no way back, please be careful with this option."
+msgstr ""
+
+#: buddypress/groups/single/admin.php:355
+#@ buddypress
+msgid "I understand the consequences of deleting this group."
+msgstr ""
+
+#: buddypress/groups/single/admin.php:360
+#@ buddypress
+msgid "Delete Group"
+msgstr ""
+
+#: buddypress/groups/single/forum/edit.php:16
+#: buddypress/groups/single/forum/topic.php:17
+#: buddypress/groups/single/forum.php:27
+#@ buddypress
+msgid "Forum Directory"
+msgstr ""
+
+#: buddypress/groups/single/forum/edit.php:25
+#@ buddypress
+msgid "Edit:"
+msgstr ""
+
+#: buddypress/groups/single/forum/edit.php:87
+#@ buddypress
+msgid "This topic does not exist."
+msgstr ""
+
+#: buddypress/groups/single/forum/topic.php:9
+#@ buddypress
+msgid "New Reply"
+msgstr ""
+
+#: buddypress/groups/single/forum/topic.php:32
+#@ buddypress
+msgid "Topic tags:"
+msgstr ""
+
+#: buddypress/groups/single/forum/topic.php:81
+#, php-format
+#@ buddypress
+msgid "%1$s said %2$s:"
+msgstr ""
+
+#: buddypress/groups/single/forum/topic.php:119
+#@ buddypress
+msgid "There are no posts for this topic."
+msgstr ""
+
+#: buddypress/groups/single/forum/topic.php:134
+#@ buddypress
+msgid "You will auto join this group when you reply to this topic."
+msgstr ""
+
+#: buddypress/groups/single/forum/topic.php:139
+#@ buddypress
+msgid "Add a reply:"
+msgstr ""
+
+#: buddypress/groups/single/forum/topic.php:144
+#@ buddypress
+msgid "Post Reply"
+msgstr ""
+
+#: buddypress/groups/single/forum/topic.php:155
+#@ buddypress
+msgid "This topic is closed, replies are no longer accepted."
+msgstr ""
+
+#: buddypress/groups/single/forum.php:19
+#@ buddypress
+msgid "New Topic"
+msgstr ""
+
+#: buddypress/groups/single/forum.php:69
+#@ buddypress
+msgid "You will auto join this group when you start a new topic."
+msgstr ""
+
+#: buddypress/groups/single/forum.php:73
+#@ buddypress
+msgid "Post a New Topic:"
+msgstr ""
+
+#: buddypress/groups/single/group-header.php:31
+#@ buddypress
+msgid "Group Admins"
+msgstr ""
+
+#: buddypress/groups/single/group-header.php:41
+#@ buddypress
+msgid "Group Mods"
+msgstr ""
+
+#: buddypress/groups/single/request-membership.php:4
+#, php-format
+#@ buddypress
+msgid "You are requesting to become a member of the group '%s'."
+msgstr ""
+
+#: buddypress/groups/single/request-membership.php:7
+#@ buddypress
+msgid "Comments (optional)"
+msgstr ""
+
+#: buddypress/groups/single/request-membership.php:12
+#@ buddypress
+msgid "Send Request"
+msgstr ""
+
+#: buddypress/groups/single/send-invites.php:66
+#@ buddypress
+msgid "Send Invites"
+msgstr ""
+
+#: buddypress/members/activate.php:14
+#@ buddypress
+msgid "Your account was activated successfully! Your account details have been sent to you in a separate email."
+msgstr ""
+
+#: buddypress/members/activate.php:16
+#, php-format
+#@ buddypress
+msgid "Your account was activated successfully! You can now <a href=\"%s\">log in</a> with the username and password you provided when you signed up."
+msgstr ""
+
+#: buddypress/members/activate.php:21
+#@ buddypress
+msgid "Please provide a valid activation key."
+msgstr ""
+
+#: buddypress/members/activate.php:25
+#@ buddypress
+msgid "Activation Key:"
+msgstr ""
+
+#: buddypress/members/activate.php:29
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1313
+#@ buddypress
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#: buddypress/members/index.php:33
+#: buddypress/members/single/friends.php:23
+#@ buddypress
+msgid "Newest Registered"
+msgstr ""
+
+#: buddypress/members/members-loop.php:108
+#@ buddypress
+msgid "Sorry, no members were found."
+msgstr ""
+
+#: buddypress/members/register.php:13
+#@ buddypress
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: buddypress/members/register.php:22
+#@ buddypress
+msgid "Registering for this site is easy. Just fill in the fields below, and we'll get a new account set up for you in no time."
+msgstr ""
+
+#: buddypress/members/register.php:30
+#@ buddypress
+msgid "Account Details"
+msgstr ""
+
+#: buddypress/members/register.php:32
+#: buddypress/members/register.php:36
+#: buddypress/members/register.php:40
+#: buddypress/members/register.php:44
+#: buddypress/members/register.php:73
+#: buddypress/members/register.php:81
+#: buddypress/members/register.php:89
+#: buddypress/members/register.php:99
+#: buddypress/members/register.php:110
+#: buddypress/members/register.php:125
+#: buddypress/members/register.php:136
+#: buddypress/members/register.php:211
+#: buddypress/members/register.php:220
+#: buddypress/members/single/profile/edit.php:27
+#: buddypress/members/single/profile/edit.php:34
+#: buddypress/members/single/profile/edit.php:41
+#: buddypress/members/single/profile/edit.php:50
+#: buddypress/members/single/profile/edit.php:68
+#: buddypress/members/single/profile/edit.php:84
+#: buddypress/members/single/profile/edit.php:94
+#@ buddypress
+msgid "(required)"
+msgstr ""
+
+#: buddypress/members/register.php:36
+#@ buddypress
+msgid "Email Address"
+msgstr ""
+
+#: buddypress/members/register.php:40
+#@ buddypress
+msgid "Choose a Password"
+msgstr ""
+
+#: buddypress/members/register.php:44
+#: paid-memberships-pro/pages/checkout.php:189
+#@ buddypress
+#@ pmpro
+msgid "Confirm Password"
+msgstr ""
+
+#: buddypress/members/register.php:62
+#@ buddypress
+msgid "Profile Details"
+msgstr ""
+
+#: buddypress/members/register.php:116
+#: buddypress/members/single/profile/edit.php:59
+#: buddypress/members/single/profile/edit.php:74
+#@ buddypress
+msgid "Clear"
+msgstr ""
+
+#: buddypress/members/register.php:158
+#: buddypress/members/register.php:173
+#: buddypress/members/single/profile/edit.php:121
+#: buddypress/members/single/profile/edit.php:135
+#, php-format
+#@ buddypress
+msgid "This field can be seen by: <span class=\"current-visibility-level\">%s</span>"
+msgstr ""
+
+#: buddypress/members/register.php:158
+#@ buddypress
+msgctxt "Change profile field visibility level"
+msgid "Change"
+msgstr ""
+
+#: buddypress/members/register.php:163
+#: buddypress/members/single/profile/edit.php:126
+#@ buddypress
+msgid "Who can see this field?"
+msgstr ""
+
+#: buddypress/members/register.php:205
+#@ buddypress
+msgid "Blog Details"
+msgstr ""
+
+#: buddypress/members/register.php:207
+#@ buddypress
+msgid "Yes, I'd like to create a new site"
+msgstr ""
+
+#: buddypress/members/register.php:211
+#@ buddypress
+msgid "Blog URL"
+msgstr ""
+
+#: buddypress/members/register.php:220
+#@ buddypress
+msgid "Site Title"
+msgstr ""
+
+#: buddypress/members/register.php:224
+#@ buddypress
+msgid "I would like my site to appear in search engines, and in public listings around this network."
+msgstr ""
+
+#: buddypress/members/register.php:227
+#: lib/plugin-pmpro/config.php:428
+#@ buddypress
+#@ pmpro
+msgid "Yes"
+msgstr ""
+
+#: buddypress/members/register.php:228
+#: lib/plugin-pmpro/config.php:390
+#: lib/plugin-pmpro/config.php:429
+#@ buddypress
+#@ pmpro
+msgid "No"
+msgstr ""
+
+#: buddypress/members/register.php:243
+#@ buddypress
+msgid "Complete Sign Up"
+msgstr ""
+
+#: buddypress/members/register.php:258
+#@ buddypress
+msgid "You have successfully created your account! To begin using this site you will need to activate your account via the email we have just sent to your address."
+msgstr ""
+
+#: buddypress/members/register.php:260
+#@ buddypress
+msgid "You have successfully created your account! Please log in using the username and password you have just created."
+msgstr ""
+
+#: buddypress/members/single/friends/requests.php:74
+#@ buddypress
+msgid "You have no pending friendship requests."
+msgstr ""
+
+#: buddypress/members/single/groups/invites.php:14
+#, php-format
+#@ buddypress
+msgid "1 member"
+msgid_plural "%d members"
+msgstr[0] ""
+msgstr[1] ""
+
+#: buddypress/members/single/groups/invites.php:37
+#@ buddypress
+msgid "You have no outstanding group invites."
+msgstr ""
+
+#: buddypress/members/single/messages/compose.php:5
+#@ buddypress
+msgid "Send To (Username or Friend's Name)"
+msgstr ""
+
+#: buddypress/members/single/messages/compose.php:14
+#@ buddypress
+msgid "This is a notice to all users."
+msgstr ""
+
+#: buddypress/members/single/messages/compose.php:17
+#@ buddypress
+msgid "Subject"
+msgstr ""
+
+#: buddypress/members/single/messages/compose.php:20
+#@ buddypress
+msgid "Message"
+msgstr ""
+
+#: buddypress/members/single/messages/compose.php:28
+#@ buddypress
+msgid "Send Message"
+msgstr ""
+
+#: buddypress/members/single/messages/messages-loop.php:35
+#@ buddypress
+msgid "From:"
+msgstr ""
+
+#: buddypress/members/single/messages/messages-loop.php:42
+#@ buddypress
+msgid "To:"
+msgstr ""
+
+#: buddypress/members/single/messages/messages-loop.php:48
+#@ buddypress
+msgid "View Message"
+msgstr ""
+
+#: buddypress/members/single/messages/messages-loop.php:55
+#: buddypress/members/single/messages/notices-loop.php:43
+#: buddypress/members/single/messages/single.php:24
+#@ buddypress
+msgid "Delete Message"
+msgstr ""
+
+#: buddypress/members/single/messages/messages-loop.php:75
+#@ buddypress
+msgid "Sorry, no messages were found."
+msgstr ""
+
+#: buddypress/members/single/messages/notices-loop.php:36
+#@ buddypress
+msgid "Sent:"
+msgstr ""
+
+#: buddypress/members/single/messages/notices-loop.php:54
+#@ buddypress
+msgid "Sorry, no notices were found."
+msgstr ""
+
+#: buddypress/members/single/messages/single.php:14
+#@ buddypress
+msgid "You are alone in this conversation."
+msgstr ""
+
+#: buddypress/members/single/messages/single.php:18
+#, php-format
+#@ buddypress
+msgid "Conversation between %s and you."
+msgstr ""
+
+#: buddypress/members/single/messages/single.php:83
+#@ buddypress
+msgid "Send a Reply"
+msgstr ""
+
+#: buddypress/members/single/messages/single.php:99
+#@ buddypress
+msgid "Send Reply"
+msgstr ""
+
+#: buddypress/members/single/notifications/feedback-no-notifications.php:7
+#@ buddypress
+msgid "You have no unread notifications."
+msgstr ""
+
+#: buddypress/members/single/notifications/feedback-no-notifications.php:11
+#@ buddypress
+msgid "This member has no unread notifications."
+msgstr ""
+
+#: buddypress/members/single/notifications/feedback-no-notifications.php:19
+#@ buddypress
+msgid "You have no notifications."
+msgstr ""
+
+#: buddypress/members/single/notifications/feedback-no-notifications.php:23
+#@ buddypress
+msgid "This member has no notifications."
+msgstr ""
+
+#: buddypress/members/single/notifications/notifications-loop.php:5
+#@ buddypress
+msgid "Notification"
+msgstr ""
+
+#: buddypress/members/single/notifications/notifications-loop.php:6
+#@ buddypress
+msgid "Date Received"
+msgstr ""
+
+#: buddypress/members/single/notifications/notifications-loop.php:7
+#@ buddypress
+msgid "Actions"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:2
+#@ buddypress
+msgid "Change Avatar"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:13
+#@ buddypress
+msgid "Your avatar will be used on your profile and throughout the site. If there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your account email we will use that, or you can upload an image from your computer."
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:23
+#@ buddypress
+msgid "Click below to select a JPG, GIF or PNG format photo from your computer and then click 'Upload Image' to proceed."
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:36
+#@ buddypress
+msgid "If you'd like to delete your current avatar but not upload a new one, please use the delete avatar button."
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:37
+#@ buddypress
+msgid "Delete My Avatar"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:47
+#@ buddypress
+msgid "Crop Your New Avatar"
+msgstr ""
+
+#: buddypress/members/single/profile/change-avatar.php:71
+#@ buddypress
+msgid "Your avatar will be used on your profile and throughout the site. To change your avatar, please create an account with <a href=\"http://gravatar.com\">Gravatar</a> using the same email address as you used to register with this site."
+msgstr ""
+
+#: buddypress/members/single/profile/edit.php:10
+#, php-format
+#@ buddypress
+msgid "Editing '%s' Profile Group"
+msgstr ""
+
+#: buddypress/members/single/profile/edit.php:121
+#@ buddypress
+msgid "Change"
+msgstr ""
+
+#: buddypress/members/single/profile/profile-wp.php:24
+#@ buddypress
+msgid "About Me"
+msgstr ""
+
+#: buddypress/members/single/profile/profile-wp.php:42
+#@ buddypress
+msgid "Jabber"
+msgstr ""
+
+#: buddypress/members/single/profile/profile-wp.php:51
+#@ buddypress
+msgid "AOL Messenger"
+msgstr ""
+
+#: buddypress/members/single/profile/profile-wp.php:60
+#@ buddypress
+msgid "Yahoo Messenger"
+msgstr ""
+
+#: buddypress/members/single/settings/capabilities.php:9
+#@ buddypress
+msgid "This user is a spammer."
+msgstr ""
+
+#: buddypress/members/single/settings/capabilities.php:13
+#@ buddypress
+msgid "Save"
+msgstr ""
+
+#: buddypress/members/single/settings/delete-account.php:7
+#@ buddypress
+msgid "Deleting your account will delete all of the content you have created. It will be completely irrecoverable."
+msgstr ""
+
+#: buddypress/members/single/settings/delete-account.php:11
+#@ buddypress
+msgid "Deleting this account will delete all of the content it has created. It will be completely irrecoverable."
+msgstr ""
+
+#: buddypress/members/single/settings/delete-account.php:23
+#@ buddypress
+msgid "I understand the consequences."
+msgstr ""
+
+#: buddypress/members/single/settings/delete-account.php:27
+#@ buddypress
+msgid "Delete Account"
+msgstr ""
+
+#: buddypress/members/single/settings/general.php:7
+#@ buddypress
+msgid "Current Password <span>(required to update email or change current password)</span>"
+msgstr ""
+
+#: buddypress/members/single/settings/general.php:8
+#@ buddypress
+msgid "Password Lost and Found"
+msgstr ""
+
+#: buddypress/members/single/settings/general.php:8
+#@ buddypress
+msgid "Lost your password?"
+msgstr ""
+
+#: buddypress/members/single/settings/general.php:12
+#@ buddypress
+msgid "Account Email"
+msgstr ""
+
+#: buddypress/members/single/settings/general.php:15
+#@ buddypress
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr ""
+
+#: buddypress/members/single/settings/general.php:17
+#@ buddypress
+msgid "Repeat New Password"
+msgstr ""
+
+#: buddypress/members/single/settings/notifications.php:4
+#@ buddypress
+msgid "Send an email notice when:"
+msgstr ""
+
+#: comments.php:30
+#@ kleo_framework
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:30
+#@ kleo_framework
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:30
+#@ kleo_framework
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:36
+#: comments.php:46
+#@ kleo_framework
+msgid "Previous"
+msgstr ""
+
+#: comments.php:37
+#: comments.php:47
+#@ kleo_framework
+msgid "Next"
+msgstr ""
+
+#: comments.php:52
+#@ kleo_framework
+msgid "Comments are closed."
+msgstr ""
+
+#: content-aside.php:41
+#: content-audio.php:51
+#: content-gallery.php:60
+#: content-image.php:47
+#: content-video.php:88
+#: content.php:51
+#@ kleo_framework
+msgid "Continue reading"
+msgstr ""
+
+#: content-aside.php:46
+#: content-audio.php:56
+#: content-gallery.php:65
+#: content-image.php:52
+#: content-link.php:29
+#: content-quote.php:36
+#: content-video.php:93
+#: content.php:56
+#@ kleo_framework
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-aside.php:47
+#: content-audio.php:57
+#: content-gallery.php:66
+#: content-image.php:53
+#: content-link.php:30
+#: content-page.php:100
+#: content-quote.php:37
+#: content-video.php:94
+#: content.php:57
+#: image.php:51
+#@ kleo_framework
+msgid "Pages:"
+msgstr ""
+
+#: content-none.php:14
+#, php-format
+#@ kleo_framework
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:18
+#@ kleo_framework
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: content-none.php:23
+#@ kleo_framework
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: content-video.php:21
+#: content.php:23
+#, php-format
+#@ kleo_framework
+msgid "Permalink to %s"
+msgstr ""
+
+#: functions.php:66
+#@ kleo_framework
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:67
+#@ kleo_framework
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:130
+#, php-format
+#@ kleo_framework
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:412
+#@ kleo_framework
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:414
+#@ kleo_framework
+msgid "Default sidebar"
+msgstr ""
+
+#: functions.php:481
+#: functions.php:484
+#@ kleo_framework
+msgid ", "
+msgstr ""
+
+#: functions.php:495
+#, php-format
+#@ kleo_framework
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions.php:518
+#, php-format
+#@ kleo_framework
+msgid "This article has one comment"
+msgid_plural "This article has %1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:564
+#@ kleo_framework
+msgid "ago"
+msgstr ""
+
+#: functions.php:568
+#@ kleo_framework
+msgid "<span class='unapproved'>Your comment is awaiting moderation.</span>\n"
+msgstr ""
+
+#: functions.php:579
+#@ kleo_framework
+msgid "Log in to reply."
+msgstr ""
+
+#: functions.php:634
+#, php-format
+#@ kleo_framework
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: functions.php:635
+#@ kleo_framework
+msgid "Leave a reply"
+msgstr ""
+
+#: functions.php:636
+#, php-format
+#@ kleo_framework
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: functions.php:637
+#@ kleo_framework
+msgid "Click here to cancel the reply"
+msgstr ""
+
+#: functions.php:638
+#@ kleo_framework
+msgid "Post comment"
+msgstr ""
+
+#: functions.php:639
+#@ kleo_framework
+msgid "Comment"
+msgstr ""
+
+#: functions.php:640
+#, php-format
+#@ kleo_framework
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: functions.php:948
+#: functions.php:951
+#: lib/options.php:213
+#: lib/options.php:217
+#@ kleo_framework
+msgid "Theme options"
+msgstr ""
+
+#: image.php:58
+#@ kleo_framework
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:59
+#@ kleo_framework
+msgid "Next Image"
+msgstr ""
+
+#: index.php:35
+#: lib/options.php:572
+#@ kleo_framework
+msgid "Blog"
+msgstr ""
+
+#: kleo-framework/inc/pixelentity-themes-updater/class-envato-protected-api.php:67
+#@ envato
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: kleo-framework/inc/pixelentity-themes-updater/class-envato-protected-api.php:71
+#@ envato
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: kleo-framework/inc/pixelentity-themes-updater/class-envato-protected-api.php:96
+#@ envato
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: kleo-framework/inc/pixelentity-themes-updater/class-envato-protected-api.php:167
+#@ envato
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: kleo-framework/kleo.php:171
+#: kleo-framework/lib/class-tgm-plugin-activation.php:155
+#@ kleo_framework
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: kleo-framework/kleo.php:172
+#: kleo-framework/lib/class-tgm-plugin-activation.php:156
+#@ kleo_framework
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: kleo-framework/kleo.php:173
+#: kleo-framework/lib/class-tgm-plugin-activation.php:157
+#, php-format
+#@ kleo_framework
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: kleo-framework/kleo.php:174
+#@ kleo_framework
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: kleo-framework/kleo.php:175
+#: kleo-framework/lib/class-tgm-plugin-activation.php:159
+#, php-format
+#@ kleo_framework
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: kleo-framework/kleo.php:176
+#: kleo-framework/lib/class-tgm-plugin-activation.php:160
+#, php-format
+#@ kleo_framework
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: kleo-framework/kleo.php:177
+#: kleo-framework/lib/class-tgm-plugin-activation.php:161
+#, php-format
+#@ kleo_framework
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: kleo-framework/kleo.php:178
+#: kleo-framework/lib/class-tgm-plugin-activation.php:162
+#, php-format
+#@ kleo_framework
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: kleo-framework/kleo.php:179
+#: kleo-framework/lib/class-tgm-plugin-activation.php:163
+#, php-format
+#@ kleo_framework
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: kleo-framework/kleo.php:180
+#: kleo-framework/lib/class-tgm-plugin-activation.php:164
+#, php-format
+#@ kleo_framework
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: kleo-framework/kleo.php:181
+#: kleo-framework/lib/class-tgm-plugin-activation.php:165
+#, php-format
+#@ kleo_framework
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: kleo-framework/kleo.php:182
+#: kleo-framework/lib/class-tgm-plugin-activation.php:166
+#, php-format
+#@ kleo_framework
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: kleo-framework/kleo.php:183
+#: kleo-framework/lib/class-tgm-plugin-activation.php:167
+#@ kleo_framework
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: kleo-framework/kleo.php:184
+#: kleo-framework/lib/class-tgm-plugin-activation.php:168
+#@ kleo_framework
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: kleo-framework/kleo.php:185
+#: kleo-framework/lib/class-tgm-plugin-activation.php:169
+#@ kleo_framework
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: kleo-framework/kleo.php:186
+#: kleo-framework/lib/class-tgm-plugin-activation.php:171
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1840
+#@ kleo_framework
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: kleo-framework/kleo.php:187
+#, php-format
+#@ kleo_framework
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:158
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:170
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:173
+#@ tgmpa
+msgid "All plugins installed and activated successfully."
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:174
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1085
+#@ tgmpa
+msgid "External Link"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1090
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1093
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1097
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1100
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1100
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1103
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1105
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1275
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1291
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1292
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1293
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1294
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1312
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1538
+#: kleo-framework/lib/class-tgm-plugin-activation.php:172
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1823
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1824
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1825
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1826
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1827
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1828
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1839
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1949
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1950
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1950
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1959
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1950
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1959
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1951
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1952
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1956
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1957
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1958
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1959
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1960
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1961
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:2052
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: kleo-framework/lib/function-breadcrumb.php:33
+#@ kleo_framework
+msgid "Home"
+msgstr ""
+
+#: kleo-framework/lib/function-breadcrumb.php:408
+#@ kleo_framework
+msgid "g:i a"
+msgstr ""
+
+#: kleo-framework/lib/function-breadcrumb.php:411
+#, php-format
+#@ kleo_framework
+msgid "Minute %1$s"
+msgstr ""
+
+#: kleo-framework/lib/function-breadcrumb.php:411
+#@ kleo_framework
+msgid "i"
+msgstr ""
+
+#: kleo-framework/lib/function-breadcrumb.php:414
+#@ kleo_framework
+msgid "g a"
+msgstr ""
+
+#: kleo-framework/lib/function-breadcrumb.php:425
+#: kleo-framework/lib/function-breadcrumb.php:435
+#: kleo-framework/lib/function-breadcrumb.php:444
+#: kleo-framework/lib/function-breadcrumb.php:455
+#: kleo-framework/lib/function-breadcrumb.php:457
+#: kleo-framework/lib/function-breadcrumb.php:705
+#@ kleo_framework
+msgid "Y"
+msgstr ""
+
+#: kleo-framework/lib/function-breadcrumb.php:426
+#: kleo-framework/lib/function-breadcrumb.php:447
+#: kleo-framework/lib/function-breadcrumb.php:449
+#: kleo-framework/lib/function-breadcrumb.php:709
+#@ kleo_framework
+msgid "F"
+msgstr ""
+
+#: kleo-framework/lib/function-breadcrumb.php:429
+#: kleo-framework/lib/function-breadcrumb.php:431
+#: kleo-framework/lib/function-breadcrumb.php:713
+#@ kleo_framework
+msgid "d"
+msgstr ""
+
+#: kleo-framework/lib/function-breadcrumb.php:438
+#: kleo-framework/lib/function-breadcrumb.php:440
+#, php-format
+#@ kleo_framework
+msgid "Week %1$s"
+msgstr ""
+
+#: kleo-framework/lib/function-breadcrumb.php:438
+#: kleo-framework/lib/function-breadcrumb.php:440
+#@ kleo_framework
+msgid "W"
+msgstr ""
+
+#: kleo-framework/lib/function-breadcrumb.php:466
+#: kleo-framework/lib/function-breadcrumb.php:468
+#, php-format
+#@ kleo_framework
+msgid "Search results for &quot;%1$s&quot;"
+msgstr ""
+
+#: kleo-framework/lib/function-breadcrumb.php:473
+#@ kleo_framework
+msgid "404 Not Found"
+msgstr ""
+
+#: kleo-framework/lib/function-breadcrumb.php:480
+#: kleo-framework/lib/function-breadcrumb.php:482
+#, php-format
+#@ kleo_framework
+msgid "Page %d"
+msgstr ""
+
+#: kleo-framework/lib/function-breadcrumb.php:517
+#@ buddypress
+msgid "Activate your Account"
+msgstr ""
+
+#: kleo-framework/lib/function-breadcrumb.php:521
+#@ buddypress
+msgid "Create a Group"
+msgstr ""
+
+#: kleo-framework/lib/function-breadcrumb.php:525
+#@ buddypress
+msgid "Create a Blog"
+msgstr ""
+
+#: kleo-framework/lib/function-breadcrumb.php:598
+#@ kleo_framework
+msgid "Split"
+msgstr ""
+
+#: kleo-framework/lib/function-breadcrumb.php:709
+#@ kleo_framework
+msgid "F Y"
+msgstr ""
+
+#: kleo-framework/lib/function-breadcrumb.php:713
+#@ kleo_framework
+msgid "F j, Y"
+msgstr ""
+
+#: kleo-framework/lib/function-core.php:336
+#@ kleo_framework
+msgid "Archive for category:"
+msgstr ""
+
+#: kleo-framework/lib/function-core.php:340
+#@ kleo_framework
+msgid "Archive for date:"
+msgstr ""
+
+#: kleo-framework/lib/function-core.php:344
+#@ kleo_framework
+msgid "Archive for month:"
+msgstr ""
+
+#: kleo-framework/lib/function-core.php:348
+#@ kleo_framework
+msgid "Archive for year:"
+msgstr ""
+
+#: kleo-framework/lib/function-core.php:357
+#@ kleo_framework
+msgid "search results for:"
+msgstr ""
+
+#: kleo-framework/lib/function-core.php:361
+#@ kleo_framework
+msgid "search result for:"
+msgstr ""
+
+#: kleo-framework/lib/function-core.php:368
+#@ kleo_framework
+msgid "Search results for:"
+msgstr ""
+
+#: kleo-framework/lib/function-core.php:372
+#@ kleo_framework
+msgid "To search the site please enter a valid term"
+msgstr ""
+
+#: kleo-framework/lib/function-core.php:380
+#@ kleo_framework
+msgid "Author Archive"
+msgstr ""
+
+#: kleo-framework/lib/function-core.php:382
+#@ kleo_framework
+msgid "for:"
+msgstr ""
+
+#: kleo-framework/lib/function-core.php:387
+#@ kleo_framework
+msgid "Tag Archive for:"
+msgstr ""
+
+#: kleo-framework/lib/function-core.php:392
+#@ kleo_framework
+msgid "Archive for:"
+msgstr ""
+
+#: kleo-framework/lib/function-core.php:401
+#@ kleo_framework
+msgid "Error 404 - Page not found"
+msgstr ""
+
+#: kleo-framework/lib/function-core.php:409
+#@ kleo_framework
+msgid "Page"
+msgstr ""
+
+#: kleo-framework/lib/function-facebook-login.php:87
+#@ kleo_framework
+msgid "Authenication required."
+msgstr ""
+
+#: kleo-framework/lib/function-facebook-login.php:94
+#@ kleo_framework
+msgid "Please connect your facebook account."
+msgstr ""
+
+#: kleo-framework/lib/function-facebook-login.php:111
+#@ kleo_framework
+msgid "Registration is not open at this time. Please come back later."
+msgstr ""
+
+#: kleo-framework/lib/function-facebook-login.php:114
+#@ kleo_framework
+msgid "Registration using Facebook is not currently allowed. Please use our Register page"
+msgstr ""
+
+#: kleo-framework/lib/function-facebook-login.php:122
+#@ kleo_framework
+msgid "Your facebook account is not verified. You have to verify your account before proceed login or registering on this site."
+msgstr ""
+
+#: kleo-framework/lib/function-facebook-login.php:126
+#@ kleo_framework
+msgid "Please re-connect your facebook account as we couldn't find your email address."
+msgstr ""
+
+#: kleo-framework/lib/function-facebook-login.php:129
+#@ kleo_framework
+msgid "We didn't find your name. Please complete your facebook account before proceeding."
+msgstr ""
+
+#: kleo-framework/lib/function-facebook-login.php:172
+#@ kleo_framework
+msgid "Thank you for registering. Please make sure to complete your profile fields bellow."
+msgstr ""
+
+#: kleo-framework/lib/function-facebook-login.php:247
+#, php-format
+#@ buddypress
+msgid "%s became a registered member"
+msgstr ""
+
+#: kleo-framework/metaboxes/init.php:757
+#@ kleo_framework
+msgid "Please Try Again"
+msgstr ""
+
+#: kleo-framework/metaboxes/init.php:774
+#@ kleo_framework
+msgid "Remove Embed"
+msgstr ""
+
+#: kleo-framework/metaboxes/init.php:780
+#, php-format
+#@ kleo_framework
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: kleo-framework/options/framework.php:120
+#: kleo-framework/options/framework.php:126
+#: kleo-framework/options/framework.php:298
+#: kleo-framework/options/framework.php:301
+#@ redux-framework
+#@ domain
+msgid "Options"
+msgstr ""
+
+#: kleo-framework/options/framework.php:295
+#, php-format
+#@ domain
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: kleo-framework/options/framework.php:295
+#@ domain
+msgid "Redux Framework"
+msgstr ""
+
+#: kleo-framework/options/framework.php:1046
+#: kleo-framework/options/framework.php:1047
+#: kleo-framework/options/framework.php:2352
+#@ domain
+msgid "Import / Export"
+msgstr ""
+
+#: kleo-framework/options/framework.php:1058
+#: kleo-framework/options/framework.php:1059
+#: kleo-framework/options/framework.php:2368
+#: kleo-framework/options/framework.php:2485
+#@ domain
+msgid "Options Object"
+msgstr ""
+
+#: kleo-framework/options/framework.php:1070
+#: kleo-framework/options/framework.php:1071
+#: kleo-framework/options/framework.php:2382
+#: kleo-framework/options/framework.php:2503
+#@ domain
+msgid "System Info"
+msgstr ""
+
+#: kleo-framework/options/framework.php:1378
+#@ domain
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: kleo-framework/options/framework.php:1379
+#@ domain
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: kleo-framework/options/framework.php:1380
+#@ domain
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: kleo-framework/options/framework.php:1381
+#@ domain
+msgid "Your current options will be replaced with the values of this preset. Would you like to proceed?"
+msgstr ""
+
+#: kleo-framework/options/framework.php:1656
+#@ domain
+msgid "Default"
+msgstr ""
+
+#: kleo-framework/options/framework.php:2219
+#@ domain
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: kleo-framework/options/framework.php:2281
+#@ domain
+msgid "Expand"
+msgstr ""
+
+#: kleo-framework/options/framework.php:2285
+#: kleo-framework/options/framework.php:2555
+#@ domain
+msgid "Reset Section"
+msgstr ""
+
+#: kleo-framework/options/framework.php:2287
+#: kleo-framework/options/framework.php:2557
+#@ domain
+msgid "Reset All"
+msgstr ""
+
+#: kleo-framework/options/framework.php:2290
+#: kleo-framework/options/framework.php:2560
+#@ domain
+msgid "Working..."
+msgstr ""
+
+#: kleo-framework/options/framework.php:2301
+#@ domain
+msgid "Settings Imported!"
+msgstr ""
+
+#: kleo-framework/options/framework.php:2307
+#@ domain
+msgid "Settings Saved!"
+msgstr ""
+
+#: kleo-framework/options/framework.php:2314
+#@ domain
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: kleo-framework/options/framework.php:2315
+#@ domain
+msgid "error(s) were found!"
+msgstr ""
+
+#: kleo-framework/options/framework.php:2316
+#@ domain
+msgid "warning(s) were found!"
+msgstr ""
+
+#: kleo-framework/options/framework.php:2419
+#@ domain
+msgid "Import / Export Options"
+msgstr ""
+
+#: kleo-framework/options/framework.php:2420
+#@ domain
+msgid "Import Options"
+msgstr ""
+
+#: kleo-framework/options/framework.php:2421
+#@ domain
+msgid "Import from file"
+msgstr ""
+
+#: kleo-framework/options/framework.php:2431
+#@ domain
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr ""
+
+#: kleo-framework/options/framework.php:2445
+#@ domain
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr ""
+
+#: kleo-framework/options/framework.php:2456
+#@ domain
+msgid "Import"
+msgstr ""
+
+#: kleo-framework/options/framework.php:2456
+#@ domain
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
+msgstr ""
+
+#: kleo-framework/options/framework.php:2459
+#@ domain
+msgid "Export Options"
+msgstr ""
+
+#: kleo-framework/options/framework.php:2465
+#@ domain
+msgid "Here you can copy/download your current option settings. Keep this safe as you can use it as a backup should anything go wrong, or you can use it to restore your settings on this site (or any other site)."
+msgstr ""
+
+#: kleo-framework/options/framework.php:2470
+#@ domain
+msgid "Copy"
+msgstr ""
+
+#: kleo-framework/options/framework.php:2492
+#@ domain
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/background/field_background.php:119
+#: kleo-framework/options/inc/fields/color/field_color.php:72
+#: kleo-framework/options/inc/fields/color_gradient/field_color_gradient.php:81
+#: kleo-framework/options/inc/fields/color_gradient/field_color_gradient.php:91
+#: kleo-framework/options/inc/fields/color_rgba/field_color_rgba.php:84
+#@ redux-framework
+msgid "Transparent"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/background/field_background.php:136
+#@ redux-framework
+msgid "Background Repeat"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/background/field_background.php:152
+#@ redux-framework
+msgid "Background Clip"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/background/field_background.php:168
+#@ redux-framework
+msgid "Background Origin"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/background/field_background.php:183
+#@ redux-framework
+msgid "Background Size"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/background/field_background.php:198
+#@ redux-framework
+msgid "Background Attachment"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/background/field_background.php:218
+#@ redux-framework
+msgid "Background Position"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/background/field_background.php:273
+#: kleo-framework/options/inc/fields/media/field_media.php:116
+#@ redux-framework
+msgid "No media selected"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/background/field_background.php:307
+#: kleo-framework/options/inc/fields/media/field_media.php:150
+#: kleo-framework/options/inc/fields/slides/field_slides.php:121
+#: kleo-framework/options/inc/fields/slides/field_slides.php:190
+#@ redux-framework
+msgid "Upload"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/background/field_background.php:313
+#: kleo-framework/options/inc/fields/media/field_media.php:156
+#: kleo-framework/options/inc/fields/multi_text/field_multi_text.php:75
+#: kleo-framework/options/inc/fields/multi_text/field_multi_text.php:79
+#: kleo-framework/options/inc/fields/multi_text/field_multi_text.php:82
+#: kleo-framework/options/inc/fields/slides/field_slides.php:128
+#: kleo-framework/options/inc/fields/slides/field_slides.php:192
+#@ redux-framework
+msgid "Remove"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/border/field_border.php:112
+#: kleo-framework/options/inc/fields/spacing/field_spacing.php:125
+#@ redux-framework
+msgid "All"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/border/field_border.php:125
+#: kleo-framework/options/inc/fields/spacing/field_spacing.php:149
+#@ redux-framework
+msgid "Top"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/border/field_border.php:132
+#: kleo-framework/options/inc/fields/spacing/field_spacing.php:156
+#@ redux-framework
+msgid "Right"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/border/field_border.php:139
+#: kleo-framework/options/inc/fields/spacing/field_spacing.php:163
+#@ redux-framework
+msgid "Bottom"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/border/field_border.php:146
+#: kleo-framework/options/inc/fields/spacing/field_spacing.php:170
+#@ redux-framework
+msgid "Left"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/border/field_border.php:162
+#@ redux-framework
+msgid "Border style"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/color_gradient/field_color_gradient.php:73
+#@ redux-framework
+msgid "From "
+msgstr ""
+
+#: kleo-framework/options/inc/fields/color_gradient/field_color_gradient.php:84
+#@ redux-framework
+msgid "To "
+msgstr ""
+
+#: kleo-framework/options/inc/fields/dimensions/field_dimensions.php:139
+#@ redux-framework
+msgid "Width"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/dimensions/field_dimensions.php:155
+#@ redux-framework
+msgid "height"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/dimensions/field_dimensions.php:168
+#: kleo-framework/options/inc/fields/dimensions/field_dimensions.php:169
+#: kleo-framework/options/inc/fields/spacing/field_spacing.php:181
+#: kleo-framework/options/inc/fields/spacing/field_spacing.php:182
+#@ redux-framework
+msgid "Units"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/gallery/field_gallery.php:77
+#@ redux-framework
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/gallery/field_gallery.php:78
+#@ redux-framework
+msgid "Clear Gallery"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/group/field_group.php:76
+#@ redux-framework
+msgid "New"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/group/field_group.php:89
+#@ redux-framework
+msgid "New "
+msgstr ""
+
+#: kleo-framework/options/inc/fields/group/field_group.php:208
+#@ redux-framework
+msgid "Add"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/link_color/field_link_color.php:86
+#@ redux-framework
+msgid "Regular"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/link_color/field_link_color.php:90
+#@ redux-framework
+msgid "Hover"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/link_color/field_link_color.php:94
+#@ redux-framework
+msgid "Visited"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/link_color/field_link_color.php:98
+#@ redux-framework
+msgid "Active"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/multi_text/field_multi_text.php:65
+#@ redux-framework
+msgid "Add More"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/select/field_select.php:79
+#: kleo-framework/options/inc/fields/select_image/field_select_image.php:59
+#@ redux-framework
+msgid "Select an item"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/select/field_select.php:120
+#: kleo-framework/options/inc/fields/select_image/field_select_image.php:134
+#@ redux-framework
+msgid "No items of this type were found."
+msgstr ""
+
+#: kleo-framework/options/inc/fields/slides/field_slides.php:133
+#: kleo-framework/options/inc/fields/slides/field_slides.php:197
+#@ redux-framework
+msgid "Title"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/slides/field_slides.php:135
+#: kleo-framework/options/inc/fields/slides/field_slides.php:199
+#@ redux-framework
+msgid "Description"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/slides/field_slides.php:137
+#: kleo-framework/options/inc/fields/slides/field_slides.php:201
+#@ redux-framework
+msgid "URL"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/slides/field_slides.php:168
+#: kleo-framework/options/inc/fields/slides/field_slides.php:231
+#@ redux-framework
+msgid "Delete Slide"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/slides/field_slides.php:234
+#@ redux-framework
+msgid "Add Slide"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/typography/field_typography.php:141
+#@ redux-framework
+msgid "Font family"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/typography/field_typography.php:164
+#@ redux-framework
+msgid "Standard Fonts"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/typography/field_typography.php:200
+#: kleo-framework/options/inc/fields/typography/field_typography.php:204
+#@ redux-framework
+msgid "Font style"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/typography/field_typography.php:204
+#@ redux-framework
+msgid "Style"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/typography/field_typography.php:230
+#@ redux-framework
+msgid "Font subsets"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/typography/field_typography.php:231
+#@ redux-framework
+msgid "Subsets"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/typography/field_typography.php:231
+#@ redux-framework
+msgid "Font script"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/typography/field_typography.php:249
+#@ redux-framework
+msgid "Size"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/typography/field_typography.php:258
+#@ redux-framework
+msgid "Height"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/typography/field_typography.php:266
+#@ redux-framework
+msgid "Word Spacing"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/typography/field_typography.php:274
+#@ redux-framework
+msgid "Letter Spacing"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/typography/field_typography.php:288
+#@ redux-framework
+msgid "Backup Font Family"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/typography/field_typography.php:308
+#@ redux-framework
+msgid "Font color"
+msgstr ""
+
+#: kleo-framework/options/inc/fields/typography/field_typography.php:632
+#@ redux-framework
+msgid "Google Webfonts"
+msgstr ""
+
+#: kleo-framework/options/inc/tracking.php:59
+#@ redux-framework
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: kleo-framework/options/inc/tracking.php:60
+#@ redux-framework
+msgid "Please helps us improve our panel by allowing us to gather anonymous usage stats so we know which configurations, plugins and themes to test with."
+msgstr ""
+
+#: kleo-framework/options/inc/tracking.php:65
+#@ redux-framework
+msgid "Allow tracking"
+msgstr ""
+
+#: kleo-framework/options/inc/tracking.php:70
+#@ redux-framework
+msgid "Do not allow tracking"
+msgstr ""
+
+#: kleo-framework/options/inc/validation/color/validation_color.php:15
+#: kleo-framework/options/inc/validation/color_rgba/validation_color_rgba.php:15
+#: kleo-framework/options/inc/validation/colorrgba/validation_colorrgba.php:15
+#@ redux-framework
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: kleo-framework/options/inc/validation/comma_numeric/validation_comma_numeric.php:15
+#@ redux-framework
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: kleo-framework/options/inc/validation/date/validation_date.php:15
+#@ redux-framework
+msgid "This field must be a valid date."
+msgstr ""
+
+#: kleo-framework/options/inc/validation/email/validation_email.php:15
+#@ redux-framework
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: kleo-framework/options/inc/validation/no_html/validation_no_html.php:15
+#@ redux-framework
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: kleo-framework/options/inc/validation/no_special_chars/validation_no_special_chars.php:15
+#@ redux-framework
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr ""
+
+#: kleo-framework/options/inc/validation/numeric/validation_numeric.php:15
+#@ redux-framework
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: kleo-framework/options/inc/validation/url/validation_url.php:15
+#@ redux-framework
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: lib/options.php:419
+#@ kleo_framework
+msgid "Main Layout"
+msgstr ""
+
+#: lib/options.php:420
+#@ kleo_framework
+msgid "Select main content and sidebar alignment. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+#: lib/options.php:374
+#@ kleo_framework
+msgid "Footer Text"
+msgstr ""
+
+#: lib/featured-content/featured-content.php:408
+#@ kleo_framework
+msgid "Featured Content"
+msgstr ""
+
+#: lib/featured-content/featured-content.php:409
+#, php-format
+#@ kleo_framework
+msgid "Use the <a href=\"%1$s\">\"featured\" tag</a> to feature your posts. You can change this to a tag of your choice; if no posts match the tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+
+#: lib/featured-content/featured-content.php:428
+#@ kleo_framework
+msgid "Tag Name"
+msgstr ""
+
+#: lib/featured-content/featured-content.php:433
+#@ kleo_framework
+msgid "Don&rsquo;t display tag on front end."
+msgstr ""
+
+#: lib/item-likes.php:112
+#@ kleo_framework
+msgid "Like this"
+msgstr ""
+
+#: lib/item-likes.php:150
+#@ kleo_framework
+msgid "Displays your most popular posts sorted by most liked"
+msgstr ""
+
+#: lib/item-likes.php:207
+#@ kleo_framework
+msgid "Popular Posts"
+msgstr ""
+
+#: lib/item-likes.php:226
+#@ kleo_framework
+msgid "Description:"
+msgstr ""
+
+#: lib/item-likes.php:230
+#@ kleo_framework
+msgid "Posts:"
+msgstr ""
+
+#: lib/item-likes.php:235
+#@ kleo_framework
+msgid "Display like counts"
+msgstr ""
+
+#: lib/metaboxes.php:285
+#@ kleo_framework
+msgid "Testimonial - Author description"
+msgstr ""
+
+#: lib/options.php:227
+#@ kleo_framework
+msgid "<p>Theme customizations are done here. Happy styling!</p>"
+msgstr ""
+
+#: lib/options.php:260
+#@ kleo_framework
+msgid "General settings"
+msgstr ""
+
+#: lib/options.php:261
+#@ kleo_framework
+msgid "<p class=\"description\">Here you will set your site-wide preferences.</p>"
+msgstr ""
+
+#: lib/options.php:267
+#@ kleo_framework
+msgid "Enable maintenance mode."
+msgstr ""
+
+#: lib/options.php:268
+#@ kleo_framework
+msgid "Site visitors will see a banner with the message you set bellow."
+msgstr ""
+
+#: lib/options.php:275
+#@ kleo_framework
+msgid "Message to show in maintenance mode"
+msgstr ""
+
+#: lib/options.php:286
+#@ kleo_framework
+msgid "Logo"
+msgstr ""
+
+#: lib/options.php:287
+#@ kleo_framework
+msgid "Upload your own logo."
+msgstr ""
+
+#: lib/options.php:295
+#@ kleo_framework
+msgid "Logo Retina"
+msgstr ""
+
+#: lib/options.php:296
+#@ kleo_framework
+msgid "Upload retina logo. This is optional and should be double in size than normal logo."
+msgstr ""
+
+#: lib/options.php:303
+#@ kleo_framework
+msgid "Favicon"
+msgstr ""
+
+#: lib/options.php:304
+#@ kleo_framework
+msgid "image that will be used as favicon (32px32px)."
+msgstr ""
+
+#: lib/options.php:312
+#@ kleo_framework
+msgid "Apple Iphone Icon"
+msgstr ""
+
+#: lib/options.php:313
+#@ kleo_framework
+msgid "Apple Iphone Icon (57px 57px)."
+msgstr ""
+
+#: lib/options.php:321
+#@ kleo_framework
+msgid "Apple Iphone Retina Icon"
+msgstr ""
+
+#: lib/options.php:322
+#@ kleo_framework
+msgid "Apple Iphone Retina Icon (114px 114px)."
+msgstr ""
+
+#: lib/options.php:330
+#@ kleo_framework
+msgid "Apple iPad Icon"
+msgstr ""
+
+#: lib/options.php:331
+#@ kleo_framework
+msgid "Apple Iphone Retina Icon (72px 72px)."
+msgstr ""
+
+#: lib/options.php:339
+#@ kleo_framework
+msgid "Apple iPad Retina Icon"
+msgstr ""
+
+#: lib/options.php:340
+#@ kleo_framework
+msgid "Apple iPad Retina Icon (144px 144px)."
+msgstr ""
+
+#: lib/options.php:347
+#@ kleo_framework
+msgid "Analytics code"
+msgstr ""
+
+#: lib/options.php:348
+#@ kleo_framework
+msgid "Paste your Google Analytics or other tracking code.<br/> This will be loaded in the footer."
+msgstr ""
+
+#: lib/options.php:357
+#@ kleo_framework
+msgid "Quick css"
+msgstr ""
+
+#: lib/options.php:358
+#@ kleo_framework
+msgid "Place you custom css here"
+msgstr ""
+
+#: lib/options.php:365
+#@ kleo_framework
+msgid "Enable socket text"
+msgstr ""
+
+#: lib/options.php:366
+#@ kleo_framework
+msgid "Enable text under the footer widgets area"
+msgstr ""
+
+#: lib/options.php:375
+#@ kleo_framework
+msgid "You can use shortcodes in your footer text like: [site-url] [current-year]"
+msgstr ""
+
+#: lib/options.php:385
+#@ kleo_framework
+msgid "Layout settings"
+msgstr ""
+
+#: lib/options.php:386
+#@ kleo_framework
+msgid "<p class=\"description\">Here you set options for the layout.</p>"
+msgstr ""
+
+#: lib/options.php:393
+#@ kleo_framework
+msgid "Site Layout"
+msgstr ""
+
+#: lib/options.php:394
+#@ kleo_framework
+msgid "Select between wide or boxed site layout"
+msgstr ""
+
+#: lib/options.php:408
+#@ kleo_framework
+msgid "- Background"
+msgstr ""
+
+#: lib/options.php:409
+#@ kleo_framework
+msgid "Select your boxed background"
+msgstr ""
+
+#: lib/options.php:435
+#@ kleo_framework
+msgid "Enable Go Up button"
+msgstr ""
+
+#: lib/options.php:436
+#@ kleo_framework
+msgid "Enable or disable the button in the right down corner that takes you to the top of the screen."
+msgstr ""
+
+#: lib/options.php:444
+#: lib/options.php:907
+#@ kleo_framework
+msgid "Page Title location"
+msgstr ""
+
+#: lib/options.php:445
+#: lib/options.php:908
+#@ kleo_framework
+msgid "Choose where to show page title. In the breadcrumb section or in the main content"
+msgstr ""
+
+#: lib/options.php:453
+#@ kleo_framework
+msgid "Enable Contact form"
+msgstr ""
+
+#: lib/options.php:454
+#@ kleo_framework
+msgid "Enable or disable the contact form bottom screen"
+msgstr ""
+
+#: lib/options.php:461
+#@ kleo_framework
+msgid "TO email"
+msgstr ""
+
+#: lib/options.php:462
+#@ kleo_framework
+msgid "Enter a valid email address where the emails are sent to"
+msgstr ""
+
+#: lib/options.php:471
+#@ kleo_framework
+msgid "Contact form title"
+msgstr ""
+
+#: lib/options.php:480
+#@ kleo_framework
+msgid "Contact form text"
+msgstr ""
+
+#: lib/options.php:493
+#@ kleo_framework
+msgid "Header options"
+msgstr ""
+
+#: lib/options.php:494
+#@ kleo_framework
+msgid "<p class=\"description\">Customize header appearance</p>"
+msgstr ""
+
+#: lib/options.php:499
+#@ kleo_framework
+msgid "Display top bar"
+msgstr ""
+
+#: lib/options.php:500
+#@ kleo_framework
+msgid "Enable or disable the top bar.<br> See Social icons tab to enable the social icons inside it.<br> Set a Top menu from  Appearance - Menus "
+msgstr ""
+
+#: lib/options.php:506
+#@ kleo_framework
+msgid "Show language switch"
+msgstr ""
+
+#: lib/options.php:507
+#@ kleo_framework
+msgid "Works only when WPML plugin is enabled."
+msgstr ""
+
+#: lib/options.php:514
+#@ kleo_framework
+msgid "Show language flag in menu"
+msgstr ""
+
+#: lib/options.php:523
+#@ kleo_framework
+msgid "Sticky Top menu"
+msgstr ""
+
+#: lib/options.php:524
+#@ kleo_framework
+msgid "Enable or disable the sticky menu."
+msgstr ""
+
+#: lib/options.php:531
+#@ kleo_framework
+msgid "Resize logo on scroll"
+msgstr ""
+
+#: lib/options.php:532
+#@ kleo_framework
+msgid "Enable or disable logo resizing when scrolling down the page"
+msgstr ""
+
+#: lib/options.php:539
+#@ kleo_framework
+msgid "Transparent Main Menu"
+msgstr ""
+
+#: lib/options.php:540
+#@ kleo_framework
+msgid "Enable or disable main menu background transparency"
+msgstr ""
+
+#: lib/options.php:546
+#@ kleo_framework
+msgid "Ajax Search in menu"
+msgstr ""
+
+#: lib/options.php:547
+#@ kleo_framework
+msgid "Enable or disable the button for search."
+msgstr ""
+
+#: lib/options.php:553
+#: lib/options.php:916
+#@ kleo_framework
+msgid "Show breadcrumb"
+msgstr ""
+
+#: lib/options.php:554
+#: lib/options.php:917
+#@ kleo_framework
+msgid "Enable or disable the site path under the page title."
+msgstr ""
+
+#: lib/options.php:560
+#: lib/options.php:923
+#@ kleo_framework
+msgid "Main menu info"
+msgstr ""
+
+#: lib/options.php:561
+#: lib/options.php:924
+#@ kleo_framework
+msgid "This text displays next to the main menu"
+msgstr ""
+
+#: lib/options.php:573
+#@ kleo_framework
+msgid "<p class=\"description\">Settings related to blog</p>"
+msgstr ""
+
+#: lib/options.php:580
+#@ kleo_framework
+msgid "Blog Layout"
+msgstr ""
+
+#: lib/options.php:581
+#@ kleo_framework
+msgid "Select your blog layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+#: lib/options.php:597
+#@ kleo_framework
+msgid "Categories/Archives Layout"
+msgstr ""
+
+#: lib/options.php:598
+#@ kleo_framework
+msgid "Select your blog categories layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+#: lib/options.php:614
+#@ kleo_framework
+msgid "Display type"
+msgstr ""
+
+#: lib/options.php:615
+#@ kleo_framework
+msgid "How your blog posts will display"
+msgstr ""
+
+#: lib/options.php:622
+#@ kleo_framework
+msgid "Featured content display type"
+msgstr ""
+
+#: lib/options.php:630
+#@ kleo_framework
+msgid "Display post meta"
+msgstr ""
+
+#: lib/options.php:631
+#@ kleo_framework
+msgid "If enabled it will show post info like author, categories"
+msgstr ""
+
+#: lib/options.php:644
+#@ kleo_framework
+msgid "Enable related posts"
+msgstr ""
+
+#: lib/options.php:645
+#@ kleo_framework
+msgid "Display related posts in singe blog entry"
+msgstr ""
+
+#: lib/options.php:651
+#@ kleo_framework
+msgid "Enable Social share"
+msgstr ""
+
+#: lib/options.php:652
+#@ kleo_framework
+msgid "Display social share icons after single blog entry"
+msgstr ""
+
+#: lib/options.php:659
+#@ kleo_framework
+msgid "Enable post likes"
+msgstr ""
+
+#: lib/options.php:660
+#@ kleo_framework
+msgid "Allow people to like your post"
+msgstr ""
+
+#: lib/options.php:668
+#@ kleo_framework
+msgid "Exclude IDs"
+msgstr ""
+
+#: lib/options.php:669
+#@ kleo_framework
+msgid "List of Post IDs separated by comma to exclude from showing likes"
+msgstr ""
+
+#: lib/options.php:676
+#@ kleo_framework
+msgid "Enable Likes by Ajax"
+msgstr ""
+
+#: lib/options.php:677
+#@ kleo_framework
+msgid "Get the likes count by Ajax if you have cached content"
+msgstr ""
+
+#: lib/options.php:684
+#@ kleo_framework
+msgid "0 likes text"
+msgstr ""
+
+#: lib/options.php:685
+#@ kleo_framework
+msgid "Text to show in case the post has no likes"
+msgstr ""
+
+#: lib/options.php:693
+#@ kleo_framework
+msgid "1 like text"
+msgstr ""
+
+#: lib/options.php:694
+#@ kleo_framework
+msgid "Text to show in case the post has 1 like"
+msgstr ""
+
+#: lib/options.php:701
+#: lib/options.php:709
+#@ kleo_framework
+msgid "More than 1 like text"
+msgstr ""
+
+#: lib/options.php:702
+#@ kleo_framework
+msgid "Text to show in case the post has more than 1 like"
+msgstr ""
+
+#: lib/options.php:710
+#@ kleo_framework
+msgid "Text to show in case user has already liked the post"
+msgstr ""
+
+#: lib/options.php:797
+#@ kleo_framework
+msgid "Styling options"
+msgstr ""
+
+#: lib/options.php:798
+#@ kleo_framework
+msgid "<p class=\"description\">Customize color appearance</p>"
+msgstr ""
+
+#: lib/options.php:805
+#@ kleo_framework
+msgid "Fonts"
+msgstr ""
+
+#: lib/options.php:806
+#@ kleo_framework
+msgid "<p class=\"description\">Customize font options for body text and headings.</p>"
+msgstr ""
+
+#: lib/options.php:813
+#@ kleo_framework
+msgid "Buddypress"
+msgstr ""
+
+#: lib/options.php:814
+#@ kleo_framework
+msgid "<p class=\"description\">Buddypress related settings</p>"
+msgstr ""
+
+#: lib/options.php:822
+#@ kleo_framework
+msgid "Default Layout"
+msgstr ""
+
+#: lib/options.php:823
+#@ kleo_framework
+msgid "Select your Buddypress pages layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+#: lib/options.php:838
+#@ kleo_framework
+msgid "Members Directory Layout"
+msgstr ""
+
+#: lib/options.php:839
+#@ kleo_framework
+msgid "Select your Buddypress Members directory layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+#: lib/options.php:855
+#@ kleo_framework
+msgid "Member Profile Layout"
+msgstr ""
+
+#: lib/options.php:856
+#@ kleo_framework
+msgid "Select your Member profile layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+#: lib/options.php:872
+#@ kleo_framework
+msgid "Groups Layout"
+msgstr ""
+
+#: lib/options.php:873
+#@ kleo_framework
+msgid "Select your Groups pages layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+#: lib/options.php:889
+#@ kleo_framework
+msgid "Activity Layout"
+msgstr ""
+
+#: lib/options.php:890
+#@ kleo_framework
+msgid "Select your Activity pages layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+#: lib/options.php:931
+#@ kleo_framework
+msgid "Enable online status"
+msgstr ""
+
+#: lib/options.php:932
+#@ kleo_framework
+msgid "If enabled it will show a colored dot next to each member avatar"
+msgstr ""
+
+#: lib/options.php:938
+#@ kleo_framework
+msgid "Members per page"
+msgstr ""
+
+#: lib/options.php:939
+#@ kleo_framework
+msgid "How many members to show per page in the Members Directory"
+msgstr ""
+
+#: lib/options.php:945
+#@ kleo_framework
+msgid "Groups per page"
+msgstr ""
+
+#: lib/options.php:946
+#@ kleo_framework
+msgid "How many groups to show per page in the Groups Directory"
+msgstr ""
+
+#: lib/options.php:962
+#@ kleo_framework
+msgid "Memberships"
+msgstr ""
+
+#: lib/options.php:963
+#@ kleo_framework
+msgid "<p class=\"description\">Settings related to membership. You need to have Paid Memberships Pro plugin activated</p>"
+msgstr ""
+
+#: lib/options.php:968
+#@ kleo_framework
+msgid "Membership settings"
+msgstr ""
+
+#: lib/options.php:985
+#@ kleo_framework
+msgid "Miscellaneous"
+msgstr ""
+
+#: lib/options.php:991
+#@ kleo_framework
+msgid "Admin toolbar"
+msgstr ""
+
+#: lib/options.php:992
+#@ kleo_framework
+msgid "Enable or disable wordpress default top toolbar"
+msgstr ""
+
+#: lib/options.php:1008
+#@ kleo_framework
+msgid "Facebook integration"
+msgstr ""
+
+#: lib/options.php:1009
+#@ kleo_framework
+msgid "Enable or disable Login/Register with Facebook"
+msgstr ""
+
+#: lib/options.php:1015
+#@ kleo_framework
+msgid "Facebook APP ID"
+msgstr ""
+
+#: lib/options.php:1016
+#@ kleo_framework
+msgid "In order to integrate with Facebook you need to enter your Facebook APP ID<br/>If you don't have one, you can create it from: <a target=\"_blank\" href=\"https://developers.facebook.com/apps\">HERE</a> "
+msgstr ""
+
+#: lib/options.php:1023
+#@ kleo_framework
+msgid "Show Facebook avatar"
+msgstr ""
+
+#: lib/options.php:1024
+#@ kleo_framework
+msgid "If you enable this, users that registered with Facebook will display Facebook profile image as avatar."
+msgstr ""
+
+#: lib/options.php:1031
+#@ kleo_framework
+msgid "Enable Registration via Facebook"
+msgstr ""
+
+#: lib/options.php:1032
+#@ kleo_framework
+msgid "If you enable this, users will be able to register a new account using Facebook. This skips the registration page including required profile fields"
+msgstr ""
+
+#: lib/options.php:1043
+#@ kleo_framework
+msgid "Social Info"
+msgstr ""
+
+#: lib/options.php:1044
+#@ kleo_framework
+msgid "<p class=\"description\">Here you can set your contact info that will display in the top bar.</p>"
+msgstr ""
+
+#: lib/options.php:1050
+#@ kleo_framework
+msgid "Display social icons"
+msgstr ""
+
+#: lib/options.php:1051
+#@ kleo_framework
+msgid "Enable or disable the social icons in top bar."
+msgstr ""
+
+#: lib/options.php:1073
+#@ kleo_framework
+msgid "Twitter"
+msgstr ""
+
+#: lib/options.php:1081
+#: lib/theme-functions.php:853
+#: lib/theme-functions.php:865
+#@ kleo_framework
+msgid "Facebook"
+msgstr ""
+
+#: lib/options.php:1089
+#@ kleo_framework
+msgid "Dribbble"
+msgstr ""
+
+#: lib/options.php:1097
+#@ kleo_framework
+msgid "Vimeo"
+msgstr ""
+
+#: lib/options.php:1105
+#@ kleo_framework
+msgid "Tumblr"
+msgstr ""
+
+#: lib/options.php:1113
+#@ kleo_framework
+msgid "LinkedIn"
+msgstr ""
+
+#: lib/options.php:1121
+#@ kleo_framework
+msgid "Google+"
+msgstr ""
+
+#: lib/options.php:1129
+#@ kleo_framework
+msgid "Flickr"
+msgstr ""
+
+#: lib/options.php:1137
+#@ kleo_framework
+msgid "YouTube"
+msgstr ""
+
+#: lib/options.php:1145
+#@ kleo_framework
+msgid "Pinterest"
+msgstr ""
+
+#: lib/options.php:1153
+#@ kleo_framework
+msgid "Foursquare"
+msgstr ""
+
+#: lib/options.php:1161
+#@ kleo_framework
+msgid "Instagram"
+msgstr ""
+
+#: lib/options.php:1169
+#@ kleo_framework
+msgid "GitHub"
+msgstr ""
+
+#: lib/options.php:1177
+#@ kleo_framework
+msgid "Xing"
+msgstr ""
+
+#: lib/options.php:1188
+#@ kleo_framework
+msgid "Theme update"
+msgstr ""
+
+#: lib/options.php:1189
+#@ kleo_framework
+msgid "<p class=\"description\">To automatically get theme updates you need to enter the username and API KEY from your Themeforest account.<br>Please make a backup of current files each time you do a theme update.</p>"
+msgstr ""
+
+#: lib/options.php:1194
+#@ kleo_framework
+msgid "Themeforest Username"
+msgstr ""
+
+#: lib/options.php:1201
+#@ kleo_framework
+msgid "Themeforest API KEY"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:15
+#@ kleo_framework
+msgid "Members directory restriction"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:16
+#@ kleo_framework
+msgid "View members directory"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:20
+#@ kleo_framework
+msgid "Restrict viewing other profiles"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:21
+#@ kleo_framework
+msgid "View members profile"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:25
+#@ kleo_framework
+msgid "Groups directory restriction"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:26
+#@ kleo_framework
+msgid "Access group directory"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:30
+#@ kleo_framework
+msgid "Group page restriction"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:31
+#@ kleo_framework
+msgid "Access to groups"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:35
+#@ kleo_framework
+msgid "Site activity restriction"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:36
+#@ kleo_framework
+msgid "View site activity"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:40
+#@ kleo_framework
+msgid "Sending private messages restriction"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:41
+#@ kleo_framework
+msgid "Send Private messages"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:45
+#@ kleo_framework
+msgid "Restrict users from adding media to their profile using rtMedia"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:46
+#@ kleo_framework
+msgid "Add media to your profile"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:276
+#@ kleo_framework
+msgid "Upgrade account"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:391
+#@ pmpro
+msgid "Restrict All Members"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:392
+#@ pmpro
+msgid "Restrict Certain Levels"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:398
+#@ pmpro
+msgid "Choose Levels to Restrict"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:402
+#@ kleo_framework
+msgid "Not logged in"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:403
+#@ kleo_framework
+msgid "Not members"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:424
+#@ kleo_framework
+msgid "Show field in memberships table"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:461
+#@ kleo_framework
+msgid "Popular level"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:465
+#@ pmpro
+msgid "None"
+msgstr ""
+
+#: lib/plugin-pmpro/config.php:481
+#@ kleo_framework
+msgid "Order in Membership table"
+msgstr ""
+
+#: lib/theme-functions.php:199
+#@ kleo_framework
+msgid "Permanent Link:"
+msgstr ""
+
+#: lib/theme-functions.php:386
+#@ kleo_framework
+msgid "Sorry, no pages matched your criteria."
+msgstr ""
+
+#: lib/theme-functions.php:388
+#@ kleo_framework
+msgid "Please try searching by different terms."
+msgstr ""
+
+#: lib/theme-functions.php:459
+#@ kleo_framework
+msgid "View all results"
+msgstr ""
+
+#: lib/theme-functions.php:565
+#@ kleo_framework
+msgid "Your Name"
+msgstr ""
+
+#: lib/theme-functions.php:566
+#@ kleo_framework
+msgid "Your Email"
+msgstr ""
+
+#: lib/theme-functions.php:567
+#@ kleo_framework
+msgid "Type your message..."
+msgstr ""
+
+#: lib/theme-functions.php:569
+#@ kleo_framework
+msgid "Send"
+msgstr ""
+
+#: lib/theme-functions.php:570
+#@ kleo_framework
+msgid "Sending"
+msgstr ""
+
+#: lib/theme-functions.php:595
+#@ kleo_framework
+msgid "Please enter your name."
+msgstr ""
+
+#: lib/theme-functions.php:606
+#@ kleo_framework
+msgid "Please enter your email address."
+msgstr ""
+
+#: lib/theme-functions.php:611
+#@ kleo_framework
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: lib/theme-functions.php:622
+#@ kleo_framework
+msgid "Please enter a message."
+msgstr ""
+
+#: lib/theme-functions.php:640
+#@ kleo_framework
+msgid "Contact Form Message"
+msgstr ""
+
+#: lib/theme-functions.php:643
+#@ kleo_framework
+msgid "You received a new contact form message:"
+msgstr ""
+
+#: lib/theme-functions.php:644
+#@ kleo_framework
+msgid "Name: "
+msgstr ""
+
+#: lib/theme-functions.php:645
+#@ kleo_framework
+msgid "Email: "
+msgstr ""
+
+#: lib/theme-functions.php:646
+#@ kleo_framework
+msgid "Message: "
+msgstr ""
+
+#: lib/theme-functions.php:654
+#@ kleo_framework
+msgid "Thank you. Your message has been sent."
+msgstr ""
+
+#: lib/theme-functions.php:660
+#@ kleo_framework
+msgid "Mail couldn't be sent. Please try again!"
+msgstr ""
+
+#: lib/theme-functions.php:666
+#@ kleo_framework
+msgid "Unknown error ocurred. Please try again!"
+msgstr ""
+
+#: lib/theme-functions.php:794
+#@ kleo_framework
+msgid "<span id=\"older-nav\">Go to article</span>"
+msgstr ""
+
+#: lib/theme-functions.php:796
+#@ kleo_framework
+msgid "<span id=\"older-nav\">Previous Post</span>"
+msgstr ""
+
+#: lib/theme-functions.php:797
+#@ kleo_framework
+msgid "<span id=\"newer-nav\">Next Post</span>"
+msgstr ""
+
+#: lib/theme-functions.php:856
+#: lib/theme-functions.php:868
+#@ kleo_framework
+msgid "or"
+msgstr ""
+
+#: page-parts/general-header-section.php:64
+#@ kleo_framework
+msgid "Toggle navigation"
+msgstr ""
+
+#: page-parts/post-content-masonry.php:162
+#@ kleo_framework
+msgid "Read more"
+msgstr ""
+
+#: page-parts/posts-related.php:27
+#@ kleo_framework
+msgid "Related Articles"
+msgstr ""
+
+#: page-parts/posts-social-share.php:13
+#@ kleo_framework
+msgid "Share this article:"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:14
+#, php-format
+#@ pmpro
+msgid "Logged in as <strong>%s</strong>."
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:14
+#@ pmpro
+msgid "logout"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:16
+#@ pmpro
+msgid "Level"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:18
+#@ pmpro
+msgid "Membership Fee"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:29
+#@ pmpro
+msgid "Duration"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:39
+#@ pmpro
+msgid "Your payment subscription is managed by PayPal. Please <a href=\"http://www.paypal.com\">login to PayPal here</a> to update your billing information."
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:58
+#: paid-memberships-pro/pages/checkout.php:329
+#: paid-memberships-pro/pages/confirmation.php:61
+#@ pmpro
+msgid "Billing Address"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:73
+#: paid-memberships-pro/pages/checkout.php:344
+#@ pmpro
+msgid "Address 1"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:77
+#: paid-memberships-pro/pages/checkout.php:348
+#@ pmpro
+msgid "Address 2"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:78
+#@ pmpro
+msgid "optional"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:87
+#: paid-memberships-pro/pages/checkout.php:358
+#@ pmpro
+msgid "City"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:91
+#: paid-memberships-pro/pages/checkout.php:362
+#@ pmpro
+msgid "State"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:95
+#: paid-memberships-pro/pages/checkout.php:366
+#@ pmpro
+msgid "Postal Code"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:104
+#: paid-memberships-pro/pages/checkout.php:375
+#@ pmpro
+msgid "City, State Zip"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:157
+#: paid-memberships-pro/pages/checkout.php:428
+#@ pmpro
+msgid "Country"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:182
+#: paid-memberships-pro/pages/checkout.php:453
+#@ pmpro
+msgid "Phone"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:193
+#: paid-memberships-pro/pages/checkout.php:207
+#: paid-memberships-pro/pages/checkout.php:468
+#@ pmpro
+msgid "E-mail Address"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:197
+#: paid-memberships-pro/pages/checkout.php:477
+#@ pmpro
+msgid "Confirm E-mail"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:217
+#, php-format
+#@ pmpro
+msgid "We accept %s"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:217
+#@ pmpro
+msgid "Credit Card Information"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:234
+#: paid-memberships-pro/pages/checkout.php:525
+#@ pmpro
+msgid "Card Type"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:244
+#: paid-memberships-pro/pages/checkout.php:535
+#@ pmpro
+msgid "Card Number"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:249
+#: paid-memberships-pro/pages/checkout.php:540
+#@ pmpro
+msgid "Expiration Date"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:281
+#: paid-memberships-pro/pages/checkout.php:572
+#@ pmpro
+msgctxt "Credit card security code, CVV/CCV/CVV2"
+msgid "CVV"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:282
+#: paid-memberships-pro/pages/checkout.php:573
+#@ pmpro
+msgctxt "link to CVV help"
+msgid "what's this?"
+msgstr ""
+
+#: paid-memberships-pro/pages/billing.php:309
+#@ pmpro
+msgid "This subscription is not recurring. So you don't need to update your billing information."
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:26
+#@ pmpro
+msgid "Almost done. Review the membership information and pricing below then <strong>click the \"Complete Payment\" button</strong> to finish your order."
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:33
+#@ pmpro
+msgctxt "change membership level link"
+msgid "change"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:33
+#: paid-memberships-pro/pages/confirmation.php:47
+#: paid-memberships-pro/pages/confirmation.php:64
+#: paid-memberships-pro/pages/confirmation.php:105
+#@ pmpro
+msgid "Membership Level"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:41
+#, php-format
+#@ pmpro
+msgid "You have selected the <strong>%s</strong> membership level."
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:51
+#, php-format
+#@ pmpro
+msgid "<p class=\"pmpro_level_discount_applied\">The <strong>%s</strong> code has been applied to your order.</p>"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:62
+#@ pmpro
+msgid "Click here to change your discount code"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:64
+#@ pmpro
+msgid "Do you have a discount code?"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:64
+#@ pmpro
+msgid "Click here to enter your discount code"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:66
+#: paid-memberships-pro/pages/checkout.php:76
+#: paid-memberships-pro/pages/checkout.php:581
+#: paid-memberships-pro/pages/confirmation.php:52
+#@ pmpro
+msgid "Discount Code"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:78
+#: paid-memberships-pro/pages/checkout.php:583
+#@ pmpro
+msgid "Apply"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:163
+#@ pmpro
+msgid "Already have an account?"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:163
+#@ pmpro
+msgid "Log in here"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:163
+#@ pmpro
+msgid "Account Information"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:216
+#@ pmpro
+msgid "Confirm E-mail Address"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:235
+#@ pmpro
+msgid "Full Name"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:236
+#@ pmpro
+msgid "LEAVE THIS BLANK"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:260
+#, php-format
+#@ pmpro
+msgid "You are logged in as <strong>%s</strong>. If you would like to use a different account for this membership, <a href=\"%s\">log out now</a>."
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:292
+#, php-format
+#@ pmpro
+msgid "I agree to the %s"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:307
+#@ pmpro
+msgid "Choose your Payment Method"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:315
+#@ pmpro
+msgid "Check Out with a Credit Card Here"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:317
+#: paid-memberships-pro/pages/checkout.php:690
+#@ pmpro
+msgid "Check Out with PayPal"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:508
+#, php-format
+#@ pmpro
+msgid "We Accept %s"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:508
+#@ pmpro
+msgid "Payment Information"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:682
+#@ pmpro
+msgid "Complete Payment"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:696
+#@ pmpro
+msgid "Submit and Pay with 2CheckOut"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:696
+#@ pmpro
+msgid "Submit and Check Out"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:696
+#@ pmpro
+msgid "Submit and Confirm"
+msgstr ""
+
+#: paid-memberships-pro/pages/checkout.php:702
+#@ pmpro
+msgid "Processing..."
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:12
+#@ pmpro
+msgid "Your payment has been submitted. Your membership will be activated shortly."
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:14
+#, php-format
+#@ pmpro
+msgid "Thank you for your membership to %s. Your %s membership is now active."
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:28
+#, php-format
+#@ pmpro
+msgid "Below are details about your membership account and a receipt for your initial membership invoice. A welcome email with a copy of your initial membership invoice has been sent to %s."
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:41
+#, php-format
+#@ pmpro
+msgctxt "Invoice # header. E.g. Invoice #ABCDEF on 2013-01-01."
+msgid "Invoice #%s on %s"
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:43
+#@ pmpro
+msgid "Print"
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:49
+#@ pmpro
+msgid "Membership Expires"
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:63
+#@ pmpro
+msgid "Payment Method"
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:65
+#@ pmpro
+msgid "Total Billed"
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:82
+#@ credit card type {ending in} xxxx
+msgid "ending in"
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:83
+#@ pmpro
+msgid "Expiration"
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:97
+#, php-format
+#@ pmpro
+msgid "Below are details about your membership account. A welcome email with has been sent to %s."
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:105
+#@ pmpro
+msgctxt "User without membership is in {pending} status."
+msgid "Pending"
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:113
+#@ pmpro
+msgid "View Your Membership Account &rarr;"
+msgstr ""
+
+#: paid-memberships-pro/pages/confirmation.php:115
+#@ pmpro
+msgid "If your account is not activated within a few minutes, please contact the site owner."
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:91
+#@ pmpro
+msgid "Free"
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:99
+#, php-format
+#@ kleo_framework
+msgctxt "Recurring payment in cost text generation. E.g. $5 every month for 2 more payments."
+msgid "%s per %s for %d more %s."
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:103
+#, php-format
+#@ kleo_framework
+msgctxt "Recurring payment in cost text generation. E.g., $5 every 2 months for 2 more payments."
+msgid "%s every %d %s for %d more %s."
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:108
+#, php-format
+#@ kleo_framework
+msgctxt "Recurring payment in cost text generation. E.g. $5 after 2 months."
+msgid "%s after %d %s."
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:114
+#, php-format
+#@ kleo_framework
+msgctxt "Recurring payment in cost text generation. E.g. $5 every month."
+msgid "%s per %s."
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:118
+#, php-format
+#@ kleo_framework
+msgctxt "Recurring payment in cost text generation. E.g., $5 every 2 months."
+msgid "%s every %d %s."
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:130
+#@ pmpro
+msgctxt "Trial payment in cost text generation."
+msgid "After your initial payment, your first payment is Free."
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:134
+#, php-format
+#@ pmpro
+msgctxt "Trial payment in cost text generation."
+msgid "After your initial payment, your first %d payments are Free."
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:141
+#, php-format
+#@ pmpro
+msgctxt "Trial payment in cost text generation."
+msgid "After your initial payment, your first payment will cost %s."
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:145
+#, php-format
+#@ pmpro
+msgctxt "Trial payment in cost text generation. E.g. ... first 2 payments will cost $5"
+msgid "After your initial payment, your first %d payments will cost %s."
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:162
+#@ pmpro
+msgid "0"
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:188
+#@ pmpro
+msgid "unavailable"
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:198
+#: paid-memberships-pro/pages/levels.php:200
+#@ kleo_framework
+msgid "Select"
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:202
+#@ pmpro
+msgid "Your&nbsp;Level"
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:219
+#@ pmpro
+msgid "&larr; Return to Your Account"
+msgstr ""
+
+#: paid-memberships-pro/pages/levels.php:221
+#@ pmpro
+msgid "&larr; Return to Home"
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:5
+#@ js_composer
+msgid "Section"
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:72
+#: vc_templates/vc_tab.php:18
+#@ js_composer
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: vc_templates/vc_single_image.php:20
+#@ js_composer
+msgid "This is image placeholder, edit your page to replace it."
+msgstr ""
+
+#: vc_templates/vc_toggle.php:4
+#@ js_composer
+msgid "Click to toggle"
+msgstr ""
+
+#: kleo-framework/lib/function-core.php:295
+#@ kleo_framework
+msgid "&laquo;"
+msgstr ""
+
+#: kleo-framework/lib/function-core.php:296
+#@ kleo_framework
+msgid "&raquo;"
+msgstr ""
+
+#: lib/menu-custom.php:129
+#@ kleo_framework
+msgid "Enable Mega Menu for child items."
+msgstr ""
+
+#: lib/metaboxes.php:268
+#@ kleo_framework
+msgid "Clients - link"
+msgstr ""
+
+#: lib/options.php:637
+#@ kleo_framework
+msgid "Display media on post page"
+msgstr ""
+
+#: lib/options.php:638
+#@ kleo_framework
+msgid "If you want to show image/gallery/video/audio before the post on single page"
+msgstr ""
+
+#: lib/post-types.php:15
+#@ kleo_framework
+msgid "Client"
+msgstr ""
+
+#: lib/post-types.php:15
+#@ kleo_framework
+msgid "Clients"
+msgstr ""
+
+#: lib/post-types.php:16
+#@ kleo_framework
+msgid "Testimonial"
+msgstr ""
+
+#: lib/post-types.php:16
+#@ kleo_framework
+msgid "Testimonials"
+msgstr ""
+
+#: lib/post-types.php:83
+#, php-format
+#@ kleo_framework
+msgctxt "post type general name"
+msgid "%s"
+msgstr ""
+
+#: lib/post-types.php:84
+#, php-format
+#@ kleo_framework
+msgctxt "post type singular name"
+msgid "%s"
+msgstr ""
+
+#: lib/post-types.php:85
+#, php-format
+#@ kleo_framework
+msgctxt ""
+msgid "Add New %s"
+msgstr ""
+
+#: lib/post-types.php:86
+#, php-format
+#@ kleo_framework
+msgid "Add New %s"
+msgstr ""
+
+#: lib/post-types.php:87
+#, php-format
+#@ kleo_framework
+msgid "Edit %s"
+msgstr ""
+
+#: lib/post-types.php:88
+#, php-format
+#@ kleo_framework
+msgid "New %s"
+msgstr ""
+
+#: lib/post-types.php:89
+#, php-format
+#@ kleo_framework
+msgid "All %s"
+msgstr ""
+
+#: lib/post-types.php:90
+#, php-format
+#@ kleo_framework
+msgid "View %s"
+msgstr ""
+
+#: lib/post-types.php:91
+#, php-format
+#@ kleo_framework
+msgid "Search %s"
+msgstr ""
+
+#: lib/post-types.php:92
+#, php-format
+#@ kleo_framework
+msgid "No %s found"
+msgstr ""
+
+#: lib/post-types.php:93
+#, php-format
+#@ kleo_framework
+msgid "No %s found in Trash"
+msgstr ""
+
+#: lib/post-types.php:95
+#, php-format
+#@ kleo_framework
+msgid "%s"
+msgstr ""
+
+#: lib/widgets/recent_posts.php:14
+#@ kleo_framework
+msgid "Recent posts with thumbnails widget."
+msgstr ""
+
+#: lib/widgets/recent_posts.php:16
+#@ kleo_framework
+msgid "(Kleo) Recent posts"
+msgstr ""
+
+#: lib/widgets/recent_posts.php:127
+#@ kleo_framework
+msgid "Limit:"
+msgstr ""
+
+#: lib/widgets/recent_posts.php:135
+#@ kleo_framework
+msgid "Excerpt length:"
+msgstr ""
+
+#: lib/widgets/recent_posts.php:142
+#@ kleo_framework
+msgid "Display Author Image?"
+msgstr ""
+
+#: lib/widgets/recent_posts.php:148
+#@ kleo_framework
+msgid "Show from category: "
+msgstr ""
+
+#: lib/widgets/recent_posts.php:149
+#@ kleo_framework
+msgid "All categories"
+msgstr ""
+
+#: lib/widgets/recent_posts.php:152
+#@ kleo_framework
+msgid "Choose the Post Type: "
+msgstr ""
+

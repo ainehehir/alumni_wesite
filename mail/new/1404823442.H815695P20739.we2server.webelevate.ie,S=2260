@@ -1,0 +1,51 @@
+Return-path: <>
+Envelope-to: we30dsa@we2server.webelevate.ie
+Delivery-date: Tue, 08 Jul 2014 13:44:02 +0100
+Received: from mailnull by we2server.webelevate.ie with local (Exim 4.82)
+	id 1X4Ukc-0005OQ-MC
+	for we30dsa@we2server.webelevate.ie; Tue, 08 Jul 2014 13:44:02 +0100
+X-Failed-Recipients: franjordon@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@we2server.webelevate.ie>
+To: we30dsa@we2server.webelevate.ie
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1X4Ukc-0005OQ-MC@we2server.webelevate.ie>
+Date: Tue, 08 Jul 2014 13:44:02 +0100
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  franjordon@gmail.com
+    SMTP error from remote mail server after RCPT TO:<franjordon@gmail.com>:
+    host gmail-smtp-in.l.google.com [74.125.143.27]:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 dt4si37245429lac.10 - gsmtp
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <we30dsa@we2server.webelevate.ie>
+Received: from we30dsa by we2server.webelevate.ie with local (Exim 4.82)
+	(envelope-from <we30dsa@we2server.webelevate.ie>)
+	id 1X4Ukc-0005OH-1k
+	for franjordon@gmail.com; Tue, 08 Jul 2014 13:44:02 +0100
+To: franjordon@gmail.com
+Subject: [Digital Skills Academy Alumni] Activate Your Account
+X-PHP-Script: dsa.webelevate.net/index.php for 31.193.219.82
+Date: Tue, 8 Jul 2014 12:44:02 +0000
+From: Digital Skills Academy Alumni <wordpress@dsa.webelevate.net>
+Message-ID: <d544a4d2b1b93afeaaf2caced85de49a@dsa.webelevate.net>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Thanks for registering! To complete the activation of your account please click the following link:
+
+http://dsa.webelevate.net/activate/?key=b17b69dbbe28a4eeb23f9937c0827c96
+
+

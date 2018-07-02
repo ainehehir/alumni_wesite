@@ -1,0 +1,58 @@
+Return-path: <>
+Envelope-to: we30dsa@we2server.webelevate.ie
+Delivery-date: Sat, 24 Oct 2015 08:10:28 +0100
+Received: from mailnull by we2server.webelevate.ie with local (Exim 4.86)
+	id 1ZpsyC-0007GB-OQ
+	for we30dsa@we2server.webelevate.ie; Sat, 24 Oct 2015 08:10:28 +0100
+X-Failed-Recipients: pivubaqafek@hotmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@we2server.webelevate.ie>
+To: we30dsa@we2server.webelevate.ie
+Content-Type: multipart/report; report-type=delivery-status; boundary=1445670628-eximdsn-51969495
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1ZpsyC-0007GB-OQ@we2server.webelevate.ie>
+Date: Sat, 24 Oct 2015 08:10:28 +0100
+
+--1445670628-eximdsn-51969495
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  pivubaqafek@hotmail.com
+    host mx1.hotmail.com [65.55.92.136]
+    SMTP error from remote mail server after MAIL FROM:<we30dsa@we2server.webelevate.ie> SIZE=242275:
+    550 OU-001 (SNT004-MC1F38) Unfortunately, messages from 77.235.52.86 weren't sent. Please contact your Internet service provider since part of their network is on our block list. You can also refer your provider to http://mail.live.com/mail/troubleshooting.aspx#errors.
+
+--1445670628-eximdsn-51969495
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; we2server.webelevate.ie
+
+Action: failed
+Final-Recipient: rfc822;pivubaqafek@hotmail.com
+Status: 5.0.0
+Remote-MTA: dns; mx1.hotmail.com
+Diagnostic-Code: smtp; 550 OU-001 (SNT004-MC1F38) Unfortunately, messages from 77.235.52.86 weren't sent. Please contact your Internet service provider since part of their network is on our block list. You can also refer your provider to http://mail.live.com/mail/troubleshooting.aspx#errors.
+
+--1445670628-eximdsn-51969495
+Content-type: text/rfc822-headers
+
+Return-path: <we30dsa@we2server.webelevate.ie>
+Received: from we30dsa by we2server.webelevate.ie with local (Exim 4.86)
+	(envelope-from <we30dsa@we2server.webelevate.ie>)
+	id 1ZpsyB-0007Ff-GA
+	for pivubaqafek@hotmail.com; Sat, 24 Oct 2015 08:10:27 +0100
+To: pivubaqafek@hotmail.com
+Subject: Phone Home
+X-PHP-Script: dsa.webelevate.net/index.php for 68.180.230.42
+Message-Id: <E1ZpsyB-0007Ff-GA@we2server.webelevate.ie>
+From: we30dsa@we2server.webelevate.ie
+Date: Sat, 24 Oct 2015 08:10:27 +0100
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1445670628-eximdsn-51969495--

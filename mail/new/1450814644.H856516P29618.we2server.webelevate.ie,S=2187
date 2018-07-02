@@ -1,0 +1,58 @@
+Return-path: <>
+Envelope-to: we30dsa@we2server.webelevate.ie
+Delivery-date: Tue, 22 Dec 2015 20:04:04 +0000
+Received: from mailnull by we2server.webelevate.ie with local (Exim 4.86)
+	id 1aBTAC-0007hD-Cc
+	for we30dsa@we2server.webelevate.ie; Tue, 22 Dec 2015 20:04:04 +0000
+X-Failed-Recipients: lugidyvamoz@outlook.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@we2server.webelevate.ie>
+To: we30dsa@we2server.webelevate.ie
+Content-Type: multipart/report; report-type=delivery-status; boundary=1450814644-eximdsn-375646667
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1aBTAC-0007hD-Cc@we2server.webelevate.ie>
+Date: Tue, 22 Dec 2015 20:04:04 +0000
+
+--1450814644-eximdsn-375646667
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  lugidyvamoz@outlook.com
+    host mx2.hotmail.com [65.54.188.126]
+    SMTP error from remote mail server after RCPT TO:<lugidyvamoz@outlook.com>:
+    550 Requested action not taken: mailbox unavailable
+
+--1450814644-eximdsn-375646667
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; we2server.webelevate.ie
+
+Action: failed
+Final-Recipient: rfc822;lugidyvamoz@outlook.com
+Status: 5.0.0
+Remote-MTA: dns; mx2.hotmail.com
+Diagnostic-Code: smtp; 550 Requested action not taken: mailbox unavailable
+
+--1450814644-eximdsn-375646667
+Content-type: text/rfc822-headers
+
+Return-path: <we30dsa@we2server.webelevate.ie>
+Received: from we30dsa by we2server.webelevate.ie with local (Exim 4.86)
+	(envelope-from <we30dsa@we2server.webelevate.ie>)
+	id 1aBTAA-0007gl-JS
+	for lugidyvamoz@outlook.com; Tue, 22 Dec 2015 20:04:02 +0000
+To: lugidyvamoz@outlook.com
+Subject: Phone Home
+X-PHP-Script: dsa.webelevate.net/wp-cron.php for 77.235.52.86
+Message-Id: <E1aBTAA-0007gl-JS@we2server.webelevate.ie>
+From: we30dsa@we2server.webelevate.ie
+Date: Tue, 22 Dec 2015 20:04:02 +0000
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1450814644-eximdsn-375646667--

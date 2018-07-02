@@ -1,0 +1,21 @@
+0,event_name,event_desc,address,city,state,country,zip,phone,display_desc,event_identifier,start_date,end_date,start_time,end_time,reg_limit,event_cost,allow_multiple,additional_limit,send_mail,is_active,conf_mail,registration_start,registration_end
+1,Video marketing,"""Trevor Curran, creative producer and director at One Productions, will explain how to create a video marketing plan""",Marketing House,Leopardstown,Dublin,,18,,Y,,30/07/2014,30/07/2014,8:35:00 AM,5:00:00 PM,125,€400,Y,3,Y,Y,"""***This is an automated response - Do not reply***
+Thank you [fname] [lname] for registering for [event]. 
+We hope that you will find this event both informative and enjoyable. If you have any questions, please contact [contact].
+
+If you have not done so already, please submit payment in the amount of [cost].
+
+Click here to review your payment information [payment_url].
+
+
+",01/06/2014,30/07/2014
+1,E-government conference,"""Global scholars will present innovations in e-government and related fields of study """,Trinity College,,Dublin,,2,,Y,,01/09/2014,03/09/2014,9:00:00 AM,6:00:00 PM,999999,€595,Y,,Y,Y,,NOW,31/08/2014
+1,Jobs Expo,"""The free expo offers start-your-own-business advice, one-to-one CV and advice clinics from counsellors and job offers""",Hogan Suite,Croke Park,Dublin,,1,,Y,,06/09/2014,07/09/2014,11:00:00 AM,4:00:00 PM,999999,FREE,Y,,Y,Y,,NOW,07/09/2014
+1,Jobs Expo,"""The free expo offers start-your-own-business advice, one-to-one CV and advice clinics from counsellors and job offers""",Silver Springs Moran Hotel,,Cork,,,,Y,,09/09/2014,09/09/2014,10:00:00 AM,8:00:00 PM,999999,FREE,Y,,Y,Y,,NOW,09/09/2014
+1,Career Zoo,"""Free career event for professionals and graduates connects them with employers, research and enterprise organisations""",The Convention Centre,,Dublin ,,1,,Y,,13/09/2014,13/09/2014,10:00:00 AM,6:00:00 PM,999999,FREE,Y,,Y,Y,,NOW,13/09/2014
+1,Computer security symposium,"""The 21st international symposium, organised by COSAC, is the world’s leading information security and risk meeting""",Killashee House Hotel,Naas,Co Kildare,,,,Y,,28/09/2014,02/10/2014,10:00:00 AM,5:00:00 PM,999999,"€1,525",Y,,Y,Y,,NOW,27/09/2014
+1,Web summit,"""20,000 people are expected to attend this year's Web Summit, making it one of the world's major tech events""",Royal Dublin Society,,Dublin ,,4,,Y,,04/11/2014,06/11/2014,10:00:00 AM,6:35:00 PM,999999,"€2,525",Y,,Y,Y,,NOW,03/11/2014
+1,Eircom Spiders,"""The 19th Eircom Spider online awards have 23 categories open for nomination""",The Convention Centre,North Wall Quay,Dublin,,1,,Y,,20/11/2014,20/11/2014,10:00:00 AM,11:00:00 PM,999999,Free,Y,,Y,Y,,NOW,
+1,Eurostar software testing conference,"""Europe's premier software testing conference comes to Ireland for the first time""",The Convention Centre,North Wall Quay,Dublin,,1,,Y,,24/11/2014,27/01/2014,8:30:00 AM,5:00:00 PM,999999,"€2,225",Y,,Y,Y,,NOW,23/11/2014
+1,DMX marketing conference,"""More than 700 delegates will learn how to reach customers using digital and build brands with digital channels.""",Aviva Stadium,,Dublin,,4,,Y,,11/03/2015,11/03/2015,10:00:00 AM,5:00:00 PM,999999,Free,Y,,Y,Y,,NOW,11/03/2015
+1,All Ireland Marketing Awards,"""Ireland's marketing showcase gala awards ceremony""",DoubleTree Hilton Hotel,Burlington Road,Dublin,,4,,Y,,14/05/2015,15/05/2015,7:00:00 PM,1:30:00 AM,999999,SOLD OUT,Y,,Y,Y,,,

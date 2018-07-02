@@ -1,0 +1,51 @@
+Return-path: <>
+Envelope-to: we30dsa@we2server.webelevate.ie
+Delivery-date: Thu, 26 Jun 2014 17:42:49 +0100
+Received: from mailnull by we2server.webelevate.ie with local (Exim 4.82)
+	id 1X0Cl7-0004Xs-3b
+	for we30dsa@we2server.webelevate.ie; Thu, 26 Jun 2014 17:42:49 +0100
+X-Failed-Recipients: fran.jordon@webelevate.ie
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@we2server.webelevate.ie>
+To: we30dsa@we2server.webelevate.ie
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1X0Cl7-0004Xs-3b@we2server.webelevate.ie>
+Date: Thu, 26 Jun 2014 17:42:49 +0100
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  fran.jordon@webelevate.ie
+    SMTP error from remote mail server after RCPT TO:<fran.jordon@webelevate.ie>:
+    host alt2.aspmx.l.google.com [74.125.193.26]:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 gc11si3437206igd.61 - gsmtp
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <we30dsa@we2server.webelevate.ie>
+Received: from we30dsa by we2server.webelevate.ie with local (Exim 4.82)
+	(envelope-from <we30dsa@we2server.webelevate.ie>)
+	id 1X0Cl5-0004Xm-KH
+	for fran.jordon@webelevate.ie; Thu, 26 Jun 2014 17:42:47 +0100
+To: fran.jordon@webelevate.ie
+Subject: [Digital Skills Academy Alumni] Activate Your Account
+X-PHP-Script: dsa.webelevate.net/index.php for 185.7.185.194
+Date: Thu, 26 Jun 2014 16:42:47 +0000
+From: Digital Skills Academy Alumni <wordpress@dsa.webelevate.net>
+Message-ID: <41477e66df9764dd08467de80ad79dc7@dsa.webelevate.net>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Thanks for registering! To complete the activation of your account please click the following link:
+
+http://dsa.webelevate.net/activate/?key=0b2f433c27918dc83b8f9252800982de
+
+
